@@ -1,0 +1,78 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "screenSize": {
+    "large": 1024,
+    "medium": 759,
+    "small": 519
+  },
+  "_id": "579b77341e2f01b51c77a17e",
+  "_drawer": {
+    "_duration": 400,
+    "_hideEasing": "easeInQuart",
+    "_showEasing": "easeOutQuart"
+  },
+  "_courseId": "579b77341e2f01b51c77a17c",
+  "_accessibility": {
+    "_isTextProcessorEnabled": false,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isEnabled": false
+  },
+  "__v": 0,
+  "_licencePage": {
+    "licence": "CC-BY 4.0"
+  },
+  "_aboutPage": {
+    "_items": [
+      {
+        "title": "European Data Science Academy",
+        "description": "<p>This project has received funding from the&nbsp;European Union&#39;s Horizon 2020&nbsp;research and innovation programme&nbsp;under grant agreement No 643937</p>\n",
+        "_graphic": {
+          "alt": "European Data Science Academy",
+          "src": "adapt/css/assets/edsa-flat.png"
+        }
+      },
+      {
+        "title": "The Open Data Institute",
+        "description": "<p>Expert knowledge and content development provided by the&nbsp;Open Data Institute.</p>\n",
+        "_graphic": {
+          "alt": "The Open Data Institute",
+          "src": "adapt/css/assets/logo-small.png"
+        }
+      },
+      {
+        "title": "Adapt eLearning",
+        "description": "<p>Open source learning platform developed by&nbsp;Adapt elearning.</p>\n",
+        "_graphic": {
+          "alt": "Adapt eLearning",
+          "src": "adapt/css/assets/adapt.png"
+        }
+      }
+    ]
+  },
+  "_tutor": {
+    "_isEnabled": false
+  },
+  "build": {
+    "includes": [
+      "adapt-theme-edsa",
+      "adapt-contrib-boxMenu",
+      "adapt-contrib-aboutPage",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-tutor",
+      "adapt-skillsFramework",
+      "adapt-odi-licence",
+      "adapt-contrib-graphic",
+      "adapt-contrib-text",
+      "adapt-contrib-narrative",
+      "adapt-contrib-mcq",
+      "adapt-contrib-media",
+      "adapt-contrib-responsiveIframe",
+      "adapt-contrib-gmcq",
+      "adapt-contrib-accordion"
+    ]
+  }
+}
