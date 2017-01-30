@@ -53,6 +53,27 @@
       }
     ]
   },
+  "_trackingHub": {
+    "_channels": [
+      {
+        "_isStateSource": true,
+        "_saveStateIsEnabled": true,
+        "_transport": {
+          "_auth": {
+            "_password": "",
+            "_username": ""
+          },
+          "_endpoint": "https://lms2.learndata.info/api/v2/",
+          "_handlerName": "ODILRSStorageTransportHandler"
+        },
+        "_msgComposerName": "learnifyMessageComposer",
+        "_isEnabled": true,
+        "_name": "ODI LRS"
+      }
+    ],
+    "_courseID": "http://findingstories.learndata.info",
+    "_isEnabled": true
+  },
   "_tutor": {
     "_isEnabled": false
   },
@@ -60,11 +81,12 @@
     "includes": [
       "adapt-theme-edsa",
       "adapt-contrib-boxMenu",
-      "adapt-contrib-aboutPage",
-      "adapt-contrib-pageLevelProgress",
-      "adapt-contrib-tutor",
-      "adapt-skillsFramework",
+      "adapt-trackingHub",
       "adapt-odi-licence",
+      "adapt-skillsFramework",
+      "adapt-contrib-tutor",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-aboutPage",
       "adapt-contrib-graphic",
       "adapt-contrib-text",
       "adapt-contrib-narrative",

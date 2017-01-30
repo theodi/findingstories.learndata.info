@@ -655,12 +655,12 @@
     },
     "instruction": "",
     "_media": {
-      "mp4": "course/en/assets/b236a5ebc18ed84eef8f346d0ef50530bfa15923.mp4",
+      "mp4": "",
       "ogv": "",
       "mp3": "",
-      "source": "",
-      "type": "",
-      "poster": "course/en/assets/2665c6f80b07a9bc557eafc141980874f974500b.png",
+      "source": "https://player.vimeo.com/video/201640013",
+      "type": "video/vimeo",
+      "poster": "",
       "cc": []
     },
     "_setCompletionOn": "inview",
@@ -5497,12 +5497,12 @@
     },
     "instruction": "",
     "_media": {
-      "mp4": "course/en/assets/0b9b5b9d95f075895a966ad124d12378d85ef131.mp4",
+      "mp4": "",
       "ogv": "",
       "mp3": "",
-      "source": "",
-      "type": "",
-      "poster": "course/en/assets/e979a315b4851145fe9f73d4b1d47283673446c2.png",
+      "source": "https://player.vimeo.com/video/201633639",
+      "type": "video/vimeo",
+      "poster": "",
       "cc": []
     },
     "_setCompletionOn": "inview",

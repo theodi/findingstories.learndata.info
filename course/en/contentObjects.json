@@ -16,28 +16,31 @@
     "body": "<p dir=\"ltr\">A modern data scientist is expected to be a catalyst for change in an organisation. This requires not only performing complex data manipulation, but also being able to present the outcomes to senior level decision makers. In this module we look at how data has changed the way we tell stories.</p>\n",
     "displayTitle": "1. Introduction to data storytelling",
     "title": "1. Introduction to data storytelling",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Explain how data has changed the way we find stories",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Explain how data has changed the way we find stories"
         },
         {
-          "outcome": "Explain how data has changed the way we tell stories",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Explain how data has changed the way we tell stories"
         },
         {
-          "outcome": "Give examples of data stories",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Give examples of data stories"
         }
       ]
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -57,23 +60,26 @@
     "body": "<p dir=\"ltr\">A modern data scientist is expected to undertake many - &nbsp;if not all - of the stages of data storytelling. To be successful, you need to understand the time requirement of every stage in the process.</p>\n",
     "displayTitle": "2. The four step process",
     "title": "2. The four step process",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Explain the data storytelling process",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Explain the data storytelling process"
         },
         {
-          "outcome": "Plan a data storytelling project",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Plan a data storytelling project"
         }
       ]
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -93,28 +99,31 @@
     "body": "<p>When working with data, it is critical to understand your rights. This module introduces the&nbsp;aspects of law that cover the use of content in different scenarios. It is your responsibility to ensure legal and ethical use of data.</p>\n",
     "displayTitle": "3. Understanding your rights to use data",
     "title": "3. Understanding your rights to use data",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Describe how copyright and licensing relate to open data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Describe how copyright and licensing relate to open data"
         },
         {
-          "outcome": "Identify instances of open licenses and effective application",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Identify instances of open licenses and effective application"
         },
         {
-          "outcome": "Explain how copyright exceptions affect the use of data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Explain how copyright exceptions affect the use of data"
         }
       ]
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -134,33 +143,36 @@
     "body": "<p dir=\"ltr\">Data plays a key role in storytelling, however not all data is easy to find. This module looks at where you can start to find data and how to find data that is hidden on the web.</p>\n",
     "displayTitle": "4. Gathering data",
     "title": "4. Gathering data",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Explain the difference between downloadable and hidden data",
+          "level": "practitioner",
           "credits": 5,
-          "level": "practitioner"
+          "outcome": "Explain the difference between downloadable and hidden data"
         },
         {
-          "outcome": "Find downloadable data",
+          "level": "practitioner",
           "credits": 5,
-          "level": "practitioner"
+          "outcome": "Find downloadable data"
         },
         {
-          "outcome": "Find hidden data",
+          "level": "practitioner",
           "credits": 5,
-          "level": "practitioner"
+          "outcome": "Find hidden data"
         },
         {
-          "outcome": "Describe the benefit of using hidden data",
+          "level": "practitioner",
           "credits": 5,
-          "level": "practitioner"
+          "outcome": "Describe the benefit of using hidden data"
         }
       ]
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -180,33 +192,36 @@
     "body": "<p dir=\"ltr\">Having gathered data from&nbsp;different sources, an essential skill of a data scientist is to organise that data ready to be processed. A modern data scientist should design and implement a structure for a dataset that can be understood by the audience.</p>\n",
     "displayTitle": "5. Organising data",
     "title": "5. Organising data",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Identify good and bad spreadsheet layouts",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Identify good and bad spreadsheet layouts"
         },
         {
-          "outcome": "Create good column titles for a spreadsheet",
+          "level": "practitioner",
           "credits": 5,
-          "level": "practitioner"
+          "outcome": "Create good column titles for a spreadsheet"
         },
         {
-          "outcome": "Use header rows and freeze functions in spreadsheets",
+          "level": "practitioner",
           "credits": 5,
-          "level": "practitioner"
+          "outcome": "Use header rows and freeze functions in spreadsheets"
         },
         {
-          "outcome": "Use different data types in a spreadsheet",
+          "level": "practitioner",
           "credits": 5,
-          "level": "practitioner"
+          "outcome": "Use different data types in a spreadsheet"
         }
       ]
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -226,28 +241,31 @@
     "body": "<p dir=\"ltr\">Data containing errors leads to stories containing errors. Before any analysis can take place a data scientist needs to be able to identify and remove errors from data. This module looks at common errors and useful tools to remove them.</p>\n",
     "displayTitle": "6. Cleaning data",
     "title": "6. Cleaning data",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Explain how and why data needs to be cleaned",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Explain how and why data needs to be cleaned"
         },
         {
-          "outcome": "Recognise a number of errors in data",
+          "level": "practitioner",
           "credits": 5,
-          "level": "practitioner"
+          "outcome": "Recognise a number of errors in data"
         },
         {
-          "outcome": "Clean a dataset",
+          "level": "practitioner",
           "credits": 10,
-          "level": "practitioner"
+          "outcome": "Clean a dataset"
         }
       ]
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -267,33 +285,36 @@
     "body": "<p dir=\"ltr\">Once data is clean, it is ready for analysis. This analysis does not have to use complex statistical methods. A modern data scientist should be comfortable using common analysis techniques such as pivot tables.</p>\n",
     "displayTitle": "7. Filtering and pivot tables",
     "title": "7. Filtering and pivot tables",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Apply filters to a spreadsheet",
+          "level": "practitioner",
           "credits": 5,
-          "level": "practitioner"
+          "outcome": "Apply filters to a spreadsheet"
         },
         {
-          "outcome": "Sort data in a spreadsheet",
+          "level": "practitioner",
           "credits": 5,
-          "level": "practitioner"
+          "outcome": "Sort data in a spreadsheet"
         },
         {
-          "outcome": "Apply formula to a spreadsheet",
+          "level": "practitioner",
           "credits": 5,
-          "level": "practitioner"
+          "outcome": "Apply formula to a spreadsheet"
         },
         {
-          "outcome": "Create a set of analytics for a spreadsheet",
+          "level": "practitioner",
           "credits": 10,
-          "level": "practitioner"
+          "outcome": "Create a set of analytics for a spreadsheet"
         }
       ]
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -313,23 +334,26 @@
     "body": "<p dir=\"ltr\">A modern data scientist should be comfortable working with many different types of visualisation from common graphs to advanced statistical plots to geographic representations.</p>\n",
     "displayTitle": "8. Data visualisation formats",
     "title": "8. Data visualisation formats",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Describe a number data visualisations and their usage",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Describe a number data visualisations and their usage"
         },
         {
-          "outcome": "Choose an appropriate visualisation for data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Choose an appropriate visualisation for data"
         }
       ]
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -349,23 +373,26 @@
     "body": "<p>Picking the right visualisation is only the first part of telling effective stories. Plotting the right data in the correct way, making good use of colour and other visual cues is essential to making the story &ldquo;pop out&rdquo; at the audience.</p>\n",
     "displayTitle": "9. Data visualisation best practice",
     "title": "9. Data visualisation best practice",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Describe how the human brain interprets visually presented data",
+          "level": "strategist",
           "credits": 5,
-          "level": "strategist"
+          "outcome": "Describe how the human brain interprets visually presented data"
         },
         {
-          "outcome": "Use colour and pop-out to help clearly present information",
+          "level": "practitioner",
           "credits": 5,
-          "level": "practitioner"
+          "outcome": "Use colour and pop-out to help clearly present information"
         }
       ]
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -385,18 +412,21 @@
     "body": "<p dir=\"ltr\">The use of visual deception can help create intrigue, however it can also&nbsp;be used to mislead. A modern data scientist should be able to choose deception techniques that engage and inform, and avoid those which intentionally mislead.</p>\n",
     "displayTitle": "10. Visual deception",
     "title": "10. Visual deception",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Identify a number of deception techniques in visulisations",
+          "level": "strategist",
           "credits": 10,
-          "level": "strategist"
+          "outcome": "Identify a number of deception techniques in visulisations"
         }
       ]
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -416,28 +446,31 @@
     "body": "<p dir=\"ltr\">A modern data scientist is expected to be a catalyst for change in an organisation. This requires not only performing complex data manipulation, but also being able to present the outcomes to senior level decision makers. This means creating a memorable story which not only requires an effective visualisation but an engaging narrative.</p>\n",
     "displayTitle": "11. Narrating your story",
     "title": "11. Narrating your story",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "List the steps writing a narrative",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "List the steps writing a narrative"
         },
         {
-          "outcome": "Write effective headlines",
+          "level": "strategist",
           "credits": 5,
-          "level": "strategist"
+          "outcome": "Write effective headlines"
         },
         {
-          "outcome": "Identify techniques to help share your story",
+          "level": "strategist",
           "credits": 5,
-          "level": "strategist"
+          "outcome": "Identify techniques to help share your story"
         }
       ]
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   }
 ]
