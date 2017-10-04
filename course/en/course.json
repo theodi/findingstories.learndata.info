@@ -1,8 +1,8 @@
 {
   "_globals": {
     "_accessibility": {
-      "_accessibilityToggleTextOn": "Turn accessibility on?",
-      "_accessibilityToggleTextOff": "Turn accessibility off?",
+      "accessibilityToggleTextOn": "Turn accessibility on?",
+      "accessibilityToggleTextOff": "Turn accessibility off?",
       "_accessibilityInstructions": {
         "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page.",
         "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
@@ -37,27 +37,27 @@
       }
     },
     "_components": {
-      "_text": {
+      "_graphic": {
         "ariaRegion": ""
       },
-      "_narrative": {
-        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
+      "_text": {
+        "ariaRegion": ""
       },
       "_media": {
         "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen.",
         "transcriptButton": "Alternatively you can select the link below for the transcript."
       },
-      "_accordion": {
-        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
-      },
-      "_graphic": {
-        "ariaRegion": ""
-      },
       "_mcq": {
         "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
       },
+      "_narrative": {
+        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
+      },
       "_gmcq": {
         "ariaRegion": "This component is a graphical multiple choice question. Once you have selected an option select the submit button below."
+      },
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
       }
     },
     "_extensions": {
@@ -67,6 +67,30 @@
         "pageLevelProgressMenuBar": "You have completed ",
         "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
         "optionalContent": "Optional Content"
+      },
+      "_skillsFramework": {
+        "linkText": "Outcomes",
+        "titleText": "Learning outcomes"
+      },
+      "_aboutPage": {
+        "linkText": "About",
+        "titleText": "About",
+        "contactEMail": "training@theodi.org",
+        "contactLinkText": "Contact",
+        "aboutCredit": "<p>&copy; <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a></p>",
+        "SL_text": "",
+        "SL_facebook": " MyODIHQ",
+        "SL_flickr": "ukodi",
+        "SL_github": "theodi",
+        "SL_scribd": "OpenDataInstitute",
+        "SL_soundcloud": "theodi",
+        "SL_twitter": "ODIHQ",
+        "SL_vimeo": "theodiuk",
+        "SL_youtube": " OpenDataInstituteUK"
+      },
+      "_ODILicence": {
+        "linkText": "Licence",
+        "titleText": "Licence"
       }
     }
   },
@@ -106,11 +130,99 @@
     }
   },
   "_latestTrackingId": 116,
-  "body": "<p dir=\"ltr\">When effectively analysed and presented in a clear and compelling way, data has the potential to create impact. Whether that&rsquo;s changing perceptions, offering counterintuitive insights or prompting action, impact happens when data acts as the catalyst for change. &nbsp;And at the heart of driving change is the skill of finding and telling stories using, where relevant, compelling visualisations.</p>\n\n<p dir=\"ltr\">\nNo field is more experienced at finding and telling stories than journalism, and no field better at using data than data science. This set of modules looks at what these fields can learn from each other, in order to find and tell compelling stories with data.</p>\n",
+  "body": "<p dir=\"ltr\">When effectively analysed and presented in a clear and compelling way, data has the potential to create impact. Whether that&rsquo;s changing perceptions, offering counterintuitive insights or prompting action, impact happens when data acts as the catalyst for change. &nbsp;And at the heart of driving change is the skill of finding and telling stories using, where relevant, compelling visualisations.</p><p dir=\"ltr\">No field is more experienced at finding and telling stories than journalism, and no field better at using data than data science. This set of modules looks at what these fields can learn from each other, in order to find and tell compelling stories with data.</p>",
   "displayTitle": "Finding stories in data",
   "title": "Finding stories in data",
   "_pageLevelProgress": {
-    "_showPageCompletion": true,
-    "_isEnabled": true
+    "_isEnabled": true,
+    "_showPageCompletion": true
+  },
+  "_aboutPage": {
+    "_items": [
+      {
+        "title": "European Commission",
+        "description": "<p>This work has received funding from the&nbsp;European Union&#39;s Horizon 2020&nbsp;research and innovation programme&nbsp;under grant agreement No 643937.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "https://europa.eu/european-union/sites/europaeu/files/docs/body/flag_yellow_low.jpg"
+        }
+      },
+      {
+        "title": "European Data Science Academy",
+        "description": "<p>Developed as part of the European Data Science Academy project.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "adapt/css/assets/edsa-flat.png"
+        }
+      },
+      {
+        "title": "ODI Training Team",
+        "description": "<p>Expert knowledge, content development and learning plans provided by the by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> training team.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "adapt/css/assets/logo-small.png"
+        }
+      },
+      {
+        "title": "Adapt learning",
+        "description": "<p>Open source learning platform developed by <a href=\"https://www.adaptlearning.org/\" target=\"_blank\">Adapt learning</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "adapt/css/assets/adapt.png"
+        }
+      }
+    ]
+  },
+  "_ODILicence": {
+    "_items": [
+      {
+        "title": "",
+        "description": "<p>Finding stories in data by&nbsp;by&nbsp;<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> is licensed under a&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">Creative Commons Attribution 4.0 International Licence</a></p><p>The content, including text and structure is available for you to&nbsp;<em>use</em>,&nbsp;<em>reuse</em>&nbsp;and&nbsp;<em>share&nbsp;</em>(including for commercial purposes) subject to the conditions of the license outlined here.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "https://licensebuttons.net/l/by/4.0/88x31.png"
+        }
+      },
+      {
+        "title": "Attribution requirements",
+        "description": "<p>Suitable attribution should follow the attribution best practice guidelines as outlined&nbsp;<a href=\"https://wiki.creativecommons.org/wiki/Best_practices_for_attribution\">here</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "Content usage",
+        "description": "<p>The content, including text and structure is available for you to use, reuse and share (including for commercial purposes) subject to the conditions of the licence above.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "Exclusions",
+        "description": "<p>This licence does not cover:</p><ul dir=\"ltr\"><li>Logos and trade marks such as those belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "Non-endorsement",
+        "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "No warranty",
+        "description": "<p>The Information is licensed &#39;as is&#39;. Neither the Open Data Institute nor the EDSA project project are&nbsp;not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
   }
 }

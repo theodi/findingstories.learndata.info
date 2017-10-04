@@ -13,15 +13,18 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p dir=\"ltr\">A modern data scientist is expected to be a catalyst for change in an organisation. This requires not only performing complex data manipulation, but also being able to present the outcomes to senior level decision makers. In this module we look at how data has changed the way we tell stories.</p>\n",
+    "body": "<p dir=\"ltr\">A modern data scientist is expected to be a catalyst for change in an organisation. This requires not only performing complex data manipulation, but also being able to present the outcomes to senior level decision-makers. In this module we look at how data has changed the way we tell stories.</p>",
     "displayTitle": "1. Introduction to data storytelling",
     "title": "1. Introduction to data storytelling",
+    "_ODILicence": {
+      "_items": []
+    },
     "_skillsFramework": {
       "_skills": [
         {
-          "level": "explorer",
+          "outcome": "Explain how data has changed the way we find stories",
           "credits": 5,
-          "outcome": "Explain how data has changed the way we find stories"
+          "level": "explorer"
         },
         {
           "level": "explorer",
@@ -35,12 +38,17 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    },
     "_trackingHub": {
       "_pageID": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -57,15 +65,18 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p dir=\"ltr\">A modern data scientist is expected to undertake many - &nbsp;if not all - of the stages of data storytelling. To be successful, you need to understand the time requirement of every stage in the process.</p>\n",
+    "body": "<p dir=\"ltr\">A modern data scientist is expected to undertake many &ndash;&nbsp;if not all &ndash; of the stages of data storytelling. To be successful, you need to understand the time requirement of every stage in the process.</p>",
     "displayTitle": "2. The four step process",
     "title": "2. The four step process",
+    "_ODILicence": {
+      "_items": []
+    },
     "_skillsFramework": {
       "_skills": [
         {
-          "level": "explorer",
+          "outcome": "Explain the data storytelling process",
           "credits": 5,
-          "outcome": "Explain the data storytelling process"
+          "level": "explorer"
         },
         {
           "level": "explorer",
@@ -74,12 +85,17 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    },
     "_trackingHub": {
       "_pageID": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -96,9 +112,12 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p>When working with data, it is critical to understand your rights. This module introduces the&nbsp;aspects of law that cover the use of content in different scenarios. It is your responsibility to ensure legal and ethical use of data.</p>\n",
+    "body": "<p>When working with data, it&#39;s&nbsp;critical to understand your rights and your responsibility in ensuring legal and ethical use of data. This module introduces the&nbsp;aspects of law that cover the use of content in different scenarios.&nbsp;</p>",
     "displayTitle": "3. Understanding your rights to use data",
     "title": "3. Understanding your rights to use data",
+    "_ODILicence": {
+      "_items": []
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -118,12 +137,17 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    },
     "_trackingHub": {
       "_pageID": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -140,9 +164,12 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p dir=\"ltr\">Data plays a key role in storytelling, however not all data is easy to find. This module looks at where you can start to find data and how to find data that is hidden on the web.</p>\n",
+    "body": "<p dir=\"ltr\">Data plays a key role in storytelling, but not all data is easy to find. This module looks at where you can start to find data and how to find data that&#39;s hidden on the web.</p>",
     "displayTitle": "4. Gathering data",
     "title": "4. Gathering data",
+    "_ODILicence": {
+      "_items": []
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -167,12 +194,17 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    },
     "_trackingHub": {
       "_pageID": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -189,9 +221,12 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p dir=\"ltr\">Having gathered data from&nbsp;different sources, an essential skill of a data scientist is to organise that data ready to be processed. A modern data scientist should design and implement a structure for a dataset that can be understood by the audience.</p>\n",
+    "body": "<p dir=\"ltr\">Having gathered data from&nbsp;different sources, an essential skill of a data scientist is to organise that data so that it&#39;s&nbsp;ready to be processed. A modern data scientist should design and implement a structure for a dataset that can be understood by the audience, and this module will show you how.&nbsp;</p>",
     "displayTitle": "5. Organising data",
     "title": "5. Organising data",
+    "_ODILicence": {
+      "_items": []
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -216,12 +251,17 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    },
     "_trackingHub": {
       "_pageID": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -238,9 +278,12 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p dir=\"ltr\">Data containing errors leads to stories containing errors. Before any analysis can take place a data scientist needs to be able to identify and remove errors from data. This module looks at common errors and useful tools to remove them.</p>\n",
+    "body": "<p dir=\"ltr\">Data containing errors leads to stories containing errors. Before any analysis can take place, a data scientist needs to be able to identify and remove them from data. This module looks at common errors and useful tools to remove them.</p>",
     "displayTitle": "6. Cleaning data",
     "title": "6. Cleaning data",
+    "_ODILicence": {
+      "_items": []
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -260,12 +303,17 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    },
     "_trackingHub": {
       "_pageID": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -282,9 +330,12 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p dir=\"ltr\">Once data is clean, it is ready for analysis. This analysis does not have to use complex statistical methods. A modern data scientist should be comfortable using common analysis techniques such as pivot tables.</p>\n",
+    "body": "<p dir=\"ltr\">Once data is clean, it&#39;s ready for analysis; but this analysis doesn&#39;t have to use complex statistical methods. A modern data scientist should be comfortable using common analysis techniques such as pivot tables, and this module shows you how.&nbsp;</p>",
     "displayTitle": "7. Filtering and pivot tables",
     "title": "7. Filtering and pivot tables",
+    "_ODILicence": {
+      "_items": []
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -309,12 +360,17 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    },
     "_trackingHub": {
       "_pageID": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -331,9 +387,12 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p dir=\"ltr\">A modern data scientist should be comfortable working with many different types of visualisation from common graphs to advanced statistical plots to geographic representations.</p>\n",
+    "body": "<p dir=\"ltr\">A modern data scientist will work&nbsp;with many different types of visualisation, from common graphs to advanced statistical plots to geographic representations. Learn more about the options for bringing your data to life in this module.</p>",
     "displayTitle": "8. Data visualisation formats",
     "title": "8. Data visualisation formats",
+    "_ODILicence": {
+      "_items": []
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -348,12 +407,17 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    },
     "_trackingHub": {
       "_pageID": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -370,9 +434,12 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p>Picking the right visualisation is only the first part of telling effective stories. Plotting the right data in the correct way, making good use of colour and other visual cues is essential to making the story &ldquo;pop out&rdquo; at the audience.</p>\n",
+    "body": "<p>Picking the right visualisation is only the first part of telling effective stories. Plotting the right data in the correct way, making good use of colour and other visual cues is essential to making the story &ldquo;pop out&rdquo; at the audience.</p>",
     "displayTitle": "9. Data visualisation best practice",
     "title": "9. Data visualisation best practice",
+    "_ODILicence": {
+      "_items": []
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -387,12 +454,17 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    },
     "_trackingHub": {
       "_pageID": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -409,9 +481,12 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p dir=\"ltr\">The use of visual deception can help create intrigue, however it can also&nbsp;be used to mislead. A modern data scientist should be able to choose deception techniques that engage and inform, and avoid those which intentionally mislead.</p>\n",
+    "body": "<p dir=\"ltr\">The use of visual deception can create intrigue, but it can also&nbsp;be used to mislead. A modern data scientist should be able to choose deception techniques that engage and inform, and avoid those which intentionally mislead.</p>",
     "displayTitle": "10. Visual deception",
     "title": "10. Visual deception",
+    "_ODILicence": {
+      "_items": []
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -421,12 +496,17 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    },
     "_trackingHub": {
       "_pageID": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -443,9 +523,12 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p dir=\"ltr\">A modern data scientist is expected to be a catalyst for change in an organisation. This requires not only performing complex data manipulation, but also being able to present the outcomes to senior level decision makers. This means creating a memorable story which not only requires an effective visualisation but an engaging narrative.</p>\n",
+    "body": "<p dir=\"ltr\">A modern data scientist is expected to be a catalyst for change in an organisation. This requires not only performing complex data manipulation, but also being able to present the outcomes to senior level decision-makers. This means creating a memorable story which not only requires an effective visualisation but an engaging narrative.</p>",
     "displayTitle": "11. Narrating your story",
     "title": "11. Narrating your story",
+    "_ODILicence": {
+      "_items": []
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -465,12 +548,17 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    },
     "_trackingHub": {
       "_pageID": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   }
 ]

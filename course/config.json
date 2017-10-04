@@ -19,39 +19,12 @@
   "_accessibility": {
     "_isTextProcessorEnabled": false,
     "_shouldSupportLegacyBrowsers": true,
+    "_isDisabledOnTouchDevices": false,
     "_isEnabled": false
   },
   "__v": 0,
-  "_licencePage": {
-    "licence": "CC-BY 4.0"
-  },
-  "_aboutPage": {
-    "_items": [
-      {
-        "title": "European Data Science Academy",
-        "description": "<p>This project has received funding from the&nbsp;European Union&#39;s Horizon 2020&nbsp;research and innovation programme&nbsp;under grant agreement No 643937</p>\n",
-        "_graphic": {
-          "alt": "European Data Science Academy",
-          "src": "adapt/css/assets/edsa-flat.png"
-        }
-      },
-      {
-        "title": "The Open Data Institute",
-        "description": "<p>Expert knowledge and content development provided by the&nbsp;Open Data Institute.</p>\n",
-        "_graphic": {
-          "alt": "The Open Data Institute",
-          "src": "adapt/css/assets/logo-small.png"
-        }
-      },
-      {
-        "title": "Adapt eLearning",
-        "description": "<p>Open source learning platform developed by&nbsp;Adapt elearning.</p>\n",
-        "_graphic": {
-          "alt": "Adapt eLearning",
-          "src": "adapt/css/assets/adapt.png"
-        }
-      }
-    ]
+  "_tutor": {
+    "_isEnabled": false
   },
   "_trackingHub": {
     "_channels": [
@@ -74,27 +47,24 @@
     "_courseID": "http://findingstories.learndata.info",
     "_isEnabled": true
   },
-  "_tutor": {
-    "_isEnabled": false
-  },
   "build": {
     "includes": [
       "adapt-theme-edsa",
       "adapt-contrib-boxMenu",
+      "adapt-contrib-aboutPage",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-tutor",
+      "adapt-skillsFramework",
       "adapt-trackingHub",
       "adapt-odi-licence",
-      "adapt-skillsFramework",
-      "adapt-contrib-tutor",
-      "adapt-contrib-pageLevelProgress",
-      "adapt-contrib-aboutPage",
-      "adapt-contrib-graphic",
       "adapt-contrib-text",
+      "adapt-contrib-graphic",
       "adapt-contrib-narrative",
-      "adapt-contrib-mcq",
       "adapt-contrib-media",
-      "adapt-contrib-responsiveIframe",
+      "adapt-contrib-mcq",
       "adapt-contrib-gmcq",
-      "adapt-contrib-accordion"
+      "adapt-contrib-accordion",
+      "adapt-contrib-responsiveIframe"
     ]
   }
 }

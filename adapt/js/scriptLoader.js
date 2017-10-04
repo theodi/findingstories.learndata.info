@@ -17,8 +17,21 @@
                     coreViews: 'core/js/views',
                     coreModels: 'core/js/models',
                     coreCollections: 'core/js/collections',
-                    coreHelpers: 'core/js/helpers'
+                    coreHelpers: 'core/js/helpers',
+                    'coreJS/libraries/bowser': 'libraries/bowser',
+                    'core/js/libraries/bowser': 'libraries/bowser'
                 }
+            },
+            paths: {
+                underscore: 'libraries/underscore',
+                backbone: 'libraries/backbone',
+                handlebars: 'libraries/handlebars',
+                velocity: 'libraries/velocity',
+                imageReady: 'libraries/imageReady',
+                inview: 'libraries/inview',
+                a11y: 'libraries/jquery.a11y',
+                scrollTo: 'libraries/scrollTo',
+                bowser: 'libraries/bowser'
             }
         });
         loadJQuery();
@@ -41,11 +54,38 @@
         if(window.jQuery === undefined) {
             setTimeout(checkJQueryStatus, 100);
         } else {
-            loadAdapt();
+            loadShim();
         }
     }
 
-    //5. Load adapt
+    //5. Load IE 8 shim
+    function loadShim() {
+        Modernizr.load([
+            {
+                test: IE == 8,
+                yep: 'libraries/es5-shim.min.js',
+                nope: '',
+                complete: loadFoundationLibraries()
+            }
+        ]);
+    }
+
+    //6. Load foundation libraries and templates
+    function loadFoundationLibraries() {
+        require([
+            "underscore",
+            "backbone",
+            "handlebars",
+            "velocity",
+            "imageReady",
+            "inview",
+            "a11y",
+            "scrollTo",
+            "templates"
+        ], loadAdapt);
+    }
+
+    //7. Load adapt
     function loadAdapt() {
         switch (IE) {
         case 8: case 9:
