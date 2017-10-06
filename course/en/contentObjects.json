@@ -38,9 +38,6 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": ""
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
@@ -49,6 +46,9 @@
       "aboutCredit": "",
       "SL_text": "",
       "_items": []
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -85,9 +85,6 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": ""
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
@@ -96,6 +93,9 @@
       "aboutCredit": "",
       "SL_text": "",
       "_items": []
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -137,9 +137,6 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": ""
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
@@ -148,6 +145,9 @@
       "aboutCredit": "",
       "SL_text": "",
       "_items": []
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -167,8 +167,9 @@
     "body": "<p dir=\"ltr\">Data plays a key role in storytelling, but not all data is easy to find. This module looks at where you can start to find data and how to find data that&#39;s hidden on the web.</p>",
     "displayTitle": "4. Gathering data",
     "title": "4. Gathering data",
-    "_ODILicence": {
-      "_items": []
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     },
     "_skillsFramework": {
       "_skills": [
@@ -194,17 +195,65 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_aboutPage": {
-      "aboutCredit": "",
+      "aboutCredit": "<p>This work &quot;Gathering data&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module12/\" target=\"_blank\">Finding hidden data on the Web</a>&quot; by <a href=\"https://ec.europa.eu/commission/index_en\" target=\"_blank\">European Commission</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>",
       "SL_text": "",
       "_items": []
+    },
+    "_ODILicence": {
+      "_items": [
+        {
+          "title": "",
+          "description": "<p>&quot;Gathering data&quot; by&nbsp;<a href=\"https://theodi.org\">Open Data Institute</a> is licensed under a<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> Creative Commons Attribution-ShareAlike 4.0 International Licence</a></p>",
+          "_graphic": {
+            "alt": "",
+            "src": "https://licensebuttons.net/l/by-sa/4.0/88x31.png"
+          }
+        },
+        {
+          "title": "Attribution requirements",
+          "description": "<p>Suitable attribution should follow the attribution best practice guidelines as outlined&nbsp;<a href=\"https://wiki.creativecommons.org/wiki/Best_practices_for_attribution\" target=\"_blank\">here</a>.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Content usage",
+          "description": "<p>The content, including text and structure is available for you to use, reuse and share (including for commercial purposes) subject to the conditions of the licence above.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Exclusions",
+          "description": "<p>This licence does not cover:</p><ul dir=\"ltr\"><li>Logos and trade marks such as those belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Non-endorsement",
+          "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "No warranty",
+          "description": "<p>The Information is licensed &#39;as is&#39;. Neither the Open Data Institute nor the ODEdu project are&nbsp;not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      ]
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -251,9 +300,6 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": ""
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
@@ -262,6 +308,9 @@
       "aboutCredit": "",
       "SL_text": "",
       "_items": []
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -281,8 +330,9 @@
     "body": "<p dir=\"ltr\">Data containing errors leads to stories containing errors. Before any analysis can take place, a data scientist needs to be able to identify and remove them from data. This module looks at common errors and useful tools to remove them.</p>",
     "displayTitle": "6. Cleaning data",
     "title": "6. Cleaning data",
-    "_ODILicence": {
-      "_items": []
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     },
     "_skillsFramework": {
       "_skills": [
@@ -303,17 +353,65 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_aboutPage": {
-      "aboutCredit": "",
+      "aboutCredit": "<p>This work &quot;Cleaning data&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module11/#/id/co-01\" target=\"_blank\">How to clean your data</a>&quot; by <a href=\"https://ec.europa.eu/commission/index_en\" target=\"_blank\">European Commission</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>",
       "SL_text": "",
       "_items": []
+    },
+    "_ODILicence": {
+      "_items": [
+        {
+          "title": "",
+          "description": "<p>&quot;Cleaning data&quot; by&nbsp;<a href=\"https://theodi.org\">Open Data Institute</a> is licensed under a<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> Creative Commons Attribution-ShareAlike 4.0 International Licence</a></p>",
+          "_graphic": {
+            "alt": "",
+            "src": "https://licensebuttons.net/l/by-sa/4.0/88x31.png"
+          }
+        },
+        {
+          "title": "Attribution requirements",
+          "description": "<p>Suitable attribution should follow the attribution best practice guidelines as outlined&nbsp;<a href=\"https://wiki.creativecommons.org/wiki/Best_practices_for_attribution\" target=\"_blank\">here</a>.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Content usage",
+          "description": "<p>The content, including text and structure is available for you to use, reuse and share (including for commercial purposes) subject to the conditions of the licence above.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Exclusions",
+          "description": "<p>This licence does not cover:</p><ul dir=\"ltr\"><li>Logos and trade marks such as those belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Non-endorsement",
+          "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "No warranty",
+          "description": "<p>The Information is licensed &#39;as is&#39;. Neither the Open Data Institute nor the ODEdu project are&nbsp;not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      ]
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -333,8 +431,9 @@
     "body": "<p dir=\"ltr\">Once data is clean, it&#39;s ready for analysis; but this analysis doesn&#39;t have to use complex statistical methods. A modern data scientist should be comfortable using common analysis techniques such as pivot tables, and this module shows you how.&nbsp;</p>",
     "displayTitle": "7. Filtering and pivot tables",
     "title": "7. Filtering and pivot tables",
-    "_ODILicence": {
-      "_items": []
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     },
     "_skillsFramework": {
       "_skills": [
@@ -360,17 +459,16 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_aboutPage": {
-      "aboutCredit": "",
+      "aboutCredit": "<p>This work &quot;Filtering and pivot tables&quot;, adapted from &quot;<a href=\"http://tanzania.learndata.info/eLearning/#/id/57d9233c4d7b7e82691e3c59\" target=\"_blank\">Analysing data</a>&quot; by&nbsp;<a href=\"https://theodi.org\">Open Data Institute</a>&nbsp;/ <a href=\"http://www.worldbank.org/\" target=\"_blank\">World Bank</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY&nbsp;4.0</a>.</p>",
       "SL_text": "",
       "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -407,9 +505,6 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": ""
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
@@ -418,6 +513,9 @@
       "aboutCredit": "",
       "SL_text": "",
       "_items": []
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -454,9 +552,6 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": ""
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
@@ -465,6 +560,9 @@
       "aboutCredit": "",
       "SL_text": "",
       "_items": []
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -496,9 +594,6 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": ""
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
@@ -507,6 +602,9 @@
       "aboutCredit": "",
       "SL_text": "",
       "_items": []
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -548,9 +646,6 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": ""
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
@@ -559,6 +654,9 @@
       "aboutCredit": "",
       "SL_text": "",
       "_items": []
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   }
 ]
