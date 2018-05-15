@@ -1,4 +1,5 @@
 {
+  "_id": "course",
   "_globals": {
     "_accessibility": {
       "accessibilityToggleTextOn": "Turn accessibility on?",
@@ -94,7 +95,6 @@
       }
     }
   },
-  "_id": "course",
   "_start": {
     "_isMenuDisabled": false,
     "_force": false,
@@ -140,88 +140,109 @@
   "_aboutPage": {
     "_items": [
       {
-        "title": "European Commission",
+        "_graphic": {
+          "src": "https://europa.eu/european-union/sites/europaeu/files/docs/body/flag_yellow_low.jpg",
+          "alt": ""
+        },
         "description": "<p>This work has received funding from the&nbsp;European Union&#39;s Horizon 2020&nbsp;research and innovation programme&nbsp;under grant agreement No 643937.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "https://europa.eu/european-union/sites/europaeu/files/docs/body/flag_yellow_low.jpg"
-        }
+        "title": "European Commission"
       },
       {
-        "title": "European Data Science Academy",
+        "_graphic": {
+          "src": "adapt/css/assets/edsa-flat.png",
+          "alt": ""
+        },
         "description": "<p>Developed as part of the European Data Science Academy project.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "adapt/css/assets/edsa-flat.png"
-        }
+        "title": "European Data Science Academy"
       },
       {
-        "title": "ODI Training Team",
+        "_graphic": {
+          "src": "adapt/css/assets/logo-small.png",
+          "alt": ""
+        },
         "description": "<p>Expert knowledge, content development and learning plans provided by the by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> training team.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "adapt/css/assets/logo-small.png"
-        }
+        "title": "ODI Training Team"
       },
       {
-        "title": "Adapt learning",
-        "description": "<p>Open source learning platform developed by <a href=\"https://www.adaptlearning.org/\" target=\"_blank\">Adapt learning</a>.</p>",
         "_graphic": {
-          "alt": "",
-          "src": "adapt/css/assets/adapt.png"
-        }
+          "src": "adapt/css/assets/adapt.png",
+          "alt": ""
+        },
+        "description": "<p>Open source learning platform developed by <a href=\"https://www.adaptlearning.org/\" target=\"_blank\">Adapt learning</a>.</p>",
+        "title": "Adapt learning"
       }
     ]
   },
   "_ODILicence": {
     "_items": [
       {
-        "title": "",
+        "_graphic": {
+          "src": "https://licensebuttons.net/l/by/4.0/88x31.png",
+          "alt": ""
+        },
         "description": "<p>Finding stories in data by&nbsp;by&nbsp;<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> is licensed under a&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">Creative Commons Attribution 4.0 International Licence</a></p><p>The content, including text and structure is available for you to&nbsp;<em>use</em>,&nbsp;<em>reuse</em>&nbsp;and&nbsp;<em>share&nbsp;</em>(including for commercial purposes) subject to the conditions of the license outlined here.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "https://licensebuttons.net/l/by/4.0/88x31.png"
-        }
+        "title": ""
       },
       {
-        "title": "Attribution requirements",
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
         "description": "<p>Suitable attribution should follow the attribution best practice guidelines as outlined&nbsp;<a href=\"https://wiki.creativecommons.org/wiki/Best_practices_for_attribution\">here</a>.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
+        "title": "Attribution requirements"
       },
       {
-        "title": "Content usage",
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
         "description": "<p>The content, including text and structure is available for you to use, reuse and share (including for commercial purposes) subject to the conditions of the licence above.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
+        "title": "Content usage"
       },
       {
-        "title": "Exclusions",
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
         "description": "<p>This licence does not cover:</p><ul dir=\"ltr\"><li>Logos and trade marks such as those belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
+        "title": "Exclusions"
       },
       {
-        "title": "Non-endorsement",
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
         "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
+        "title": "Non-endorsement"
       },
       {
-        "title": "No warranty",
-        "description": "<p>The Information is licensed &#39;as is&#39;. Neither the Open Data Institute nor the EDSA project project are&nbsp;not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
         "_graphic": {
-          "alt": "",
-          "src": ""
-        }
+          "src": "",
+          "alt": ""
+        },
+        "description": "<p>The Information is licensed &#39;as is&#39;. Neither the Open Data Institute nor the EDSA project project are&nbsp;not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+        "title": "No warranty"
+      }
+    ]
+  },
+  "_trackingHub": {
+    "saveTitle": "Save your progress, resume anytime...",
+    "saveBody": "<p>Please enter your&nbsp;email&nbsp;address in the box below. You will receive an email linking to your unique profile so you can save your progress and resume your learning on any device.</p>",
+    "fields": [
+      {
+        "id": "email",
+        "title": "email",
+        "type": "email",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  "_FooterLink": {
+    "_items": [
+      {
+        "title": "Privacy policy",
+        "link": "https://theodi.org/about-the-odi/legal/privacy-policy"
       }
     ]
   }

@@ -685,6 +685,29 @@
     }
   },
   {
+    "_id": "57ac6452e396ef981f39e98d",
+    "_layout": "right",
+    "_parentId": "57ac6439e396ef981f39e98c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "clipboard color-seven",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
     "_id": "57ac6456e396ef981f39e98e",
     "_layout": "left",
     "_parentId": "57ac6439e396ef981f39e98c",
@@ -963,29 +986,6 @@
     }
   },
   {
-    "_id": "57adb119e396ef981f39e9d7",
-    "_layout": "right",
-    "_parentId": "57adb0cce396ef981f39e9d6",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "intro-logo",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
-      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "57ac8a2fe396ef981f39e9d3",
     "_layout": "right",
     "_parentId": "57ac8a1be396ef981f39e9d1",
@@ -1061,6 +1061,29 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57adb119e396ef981f39e9d7",
+    "_layout": "right",
+    "_parentId": "57adb0cce396ef981f39e9d6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
     }
   },
   {
@@ -1265,6 +1288,29 @@
       "_isEnabled": true
     },
     "instruction": ""
+  },
+  {
+    "_id": "57adf764e396ef981f39ea0c",
+    "_layout": "right",
+    "_parentId": "57adf677e396ef981f39ea0a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "clipboard color-seven",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
   },
   {
     "_id": "57b1a463e396ef981f39ea1f",
@@ -2271,6 +2317,29 @@
       "_isEnabled": true
     },
     "instruction": ""
+  },
+  {
+    "_id": "57b2e803e396ef981f39eae2",
+    "_layout": "right",
+    "_parentId": "57b2e7f1e396ef981f39eae0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "clipboard color-seven",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
   },
   {
     "_id": "57b30cb3e396ef981f39eaf2",
@@ -3451,6 +3520,29 @@
     "instruction": ""
   },
   {
+    "_id": "57b31eb3e396ef981f39eba3",
+    "_layout": "right",
+    "_parentId": "57b31e9fe396ef981f39eba1",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "clipboard color-seven",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
     "_id": "57b59303e396ef981f39ebcb",
     "_layout": "left",
     "_parentId": "57b441b1e396ef981f39ebca",
@@ -3998,6 +4090,29 @@
       "large": "course/en/assets/4b8612b13413cc0305f462fd0c224e2bbe24e0cc.jpg",
       "small": "course/en/assets/4b8612b13413cc0305f462fd0c224e2bbe24e0cc.jpg",
       "attribution": ""
+    }
+  },
+  {
+    "_id": "57b5d969c71a1cc67f4ee76c",
+    "_layout": "right",
+    "_parentId": "57b5d92ac71a1cc67f4ee76b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "clipboard color-seven",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
     }
   },
   {
@@ -5100,6 +5215,29 @@
     "instruction": ""
   },
   {
+    "_id": "58385dbc4d7b7e82691e479d",
+    "_layout": "right",
+    "_parentId": "58385da74d7b7e82691e4795",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "clipboard color-seven",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
     "_id": "58399cb14d7b7e82691e4843",
     "_layout": "left",
     "_parentId": "58399c994d7b7e82691e4842",
@@ -5671,6 +5809,29 @@
     }
   },
   {
+    "_id": "5839a84b4d7b7e82691e485b",
+    "_layout": "right",
+    "_parentId": "5839a83c4d7b7e82691e485a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "clipboard color-seven",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
     "_id": "5839a8534d7b7e82691e485c",
     "_layout": "left",
     "_parentId": "5839a83c4d7b7e82691e485a",
@@ -6150,6 +6311,29 @@
       "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
       "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
       "attribution": ""
+    }
+  },
+  {
+    "_id": "583f25184d7b7e82691e4aee",
+    "_layout": "right",
+    "_parentId": "583f25064d7b7e82691e4aed",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "clipboard color-seven",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
     }
   },
   {
@@ -7112,6 +7296,29 @@
     "instruction": ""
   },
   {
+    "_id": "5888ad77b61c46e176e7e7e1",
+    "_layout": "right",
+    "_parentId": "5888a9ecb61c46e176e7e7df",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "clipboard color-seven",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
     "_id": "5888c3d8b61c46e176e7e84f",
     "_layout": "left",
     "_parentId": "57b59bb2e396ef981f39ebdb",
@@ -7254,213 +7461,6 @@
       "_small": 460,
       "_medium": 460,
       "_large": 460
-    }
-  },
-  {
-    "_id": "57b5d969c71a1cc67f4ee76c",
-    "_layout": "right",
-    "_parentId": "57b5d92ac71a1cc67f4ee76b",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "clipboard color-seven",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-    }
-  },
-  {
-    "_id": "5888ad77b61c46e176e7e7e1",
-    "_layout": "right",
-    "_parentId": "5888a9ecb61c46e176e7e7df",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "clipboard color-seven",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-    }
-  },
-  {
-    "_id": "58385dbc4d7b7e82691e479d",
-    "_layout": "right",
-    "_parentId": "58385da74d7b7e82691e4795",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "clipboard color-seven",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-    }
-  },
-  {
-    "_id": "57b31eb3e396ef981f39eba3",
-    "_layout": "right",
-    "_parentId": "57b31e9fe396ef981f39eba1",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "clipboard color-seven",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-    }
-  },
-  {
-    "_id": "5839a84b4d7b7e82691e485b",
-    "_layout": "right",
-    "_parentId": "5839a83c4d7b7e82691e485a",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "clipboard color-seven",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-    }
-  },
-  {
-    "_id": "57adf764e396ef981f39ea0c",
-    "_layout": "right",
-    "_parentId": "57adf677e396ef981f39ea0a",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "clipboard color-seven",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-    }
-  },
-  {
-    "_id": "57b2e803e396ef981f39eae2",
-    "_layout": "right",
-    "_parentId": "57b2e7f1e396ef981f39eae0",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "clipboard color-seven",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-    }
-  },
-  {
-    "_id": "57ac6452e396ef981f39e98d",
-    "_layout": "right",
-    "_parentId": "57ac6439e396ef981f39e98c",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "clipboard color-seven",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-    }
-  },
-  {
-    "_id": "583f25184d7b7e82691e4aee",
-    "_layout": "right",
-    "_parentId": "583f25064d7b7e82691e4aed",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "clipboard color-seven",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
     }
   }
 ]
