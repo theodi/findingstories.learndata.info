@@ -1,1394 +1,3177 @@
 [
   {
-    "_id": "57ac437de396ef981f39e8fd",
-    "_parentId": "57ac437ce396ef981f39e8fc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
+    "title": "Visual deception",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
     "_trackingId": 1,
-    "_classes": "color-four",
-    "body": "",
-    "displayTitle": "",
-    "title": " "
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441072208e1029dcadfa0",
+    "_parentId": "634441052208e1029dcadf87",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   },
   {
-    "_id": "57ac4dd0e396ef981f39e921",
-    "_parentId": "57ac4dd0e396ef981f39e920",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
+    "title": "Filtering and pivot tables",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
     "_trackingId": 2,
-    "_classes": "color-six",
-    "body": "",
-    "displayTitle": "",
-    "title": " "
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441072208e1029dcadfa1",
+    "_parentId": "634441042208e1029dcadf7f",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   },
   {
-    "_id": "57adb0cce396ef981f39e9d6",
-    "_parentId": "57adb0cce396ef981f39e9d5",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
+    "title": "A four step approach to storytelling with data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
     "_trackingId": 3,
-    "_classes": "color-five",
-    "body": "",
-    "displayTitle": "",
-    "title": " "
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441072208e1029dcadfa2",
+    "_parentId": "634441052208e1029dcadf89",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
   },
   {
-    "_id": "57b1b369e396ef981f39ea2a",
-    "_parentId": "57b1b369e396ef981f39ea29",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
+    "title": " Introduction to data storytelling",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
     "_trackingId": 4,
-    "_classes": "",
-    "body": "",
-    "displayTitle": "",
-    "title": "  "
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441072208e1029dcadfa3",
+    "_parentId": "634441042208e1029dcadf80",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
   },
   {
-    "_id": "57b2c1c9e396ef981f39ea8e",
-    "_parentId": "57b2c1c9e396ef981f39ea8d",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
+    "title": "Narrating your story",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
     "_trackingId": 5,
-    "_classes": "color-six",
-    "body": "",
-    "displayTitle": "",
-    "title": " "
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441072208e1029dcadfa4",
+    "_parentId": "634441052208e1029dcadf84",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   },
   {
-    "_id": "57b3182fe396ef981f39eb11",
-    "_parentId": "57b3182fe396ef981f39eb10",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
+    "title": "Data visualisation formats",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
     "_trackingId": 6,
-    "_classes": "color-four",
-    "body": "",
-    "displayTitle": "",
-    "title": " "
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441072208e1029dcadfa5",
+    "_parentId": "634441052208e1029dcadf86",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   },
   {
-    "_id": "57b441b1e396ef981f39ebca",
-    "_parentId": "57b441b1e396ef981f39ebc9",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
+    "title": "How to clean your data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
     "_trackingId": 7,
-    "_classes": "color-nine",
-    "body": "",
-    "displayTitle": "",
-    "title": " "
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441072208e1029dcadfa6",
+    "_parentId": "634441052208e1029dcadf83",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   },
   {
-    "_id": "57c198b7c8c479d7402de280",
-    "_parentId": "57c198b7c8c479d7402de27f",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
+    "title": "Visualisation best practice",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
     "_trackingId": 8,
-    "_classes": "color-six",
-    "body": "",
-    "displayTitle": "",
-    "title": " "
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441072208e1029dcadfa7",
+    "_parentId": "634441052208e1029dcadf88",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   },
   {
-    "_id": "57c1992cc8c479d7402de283",
-    "_parentId": "57c1992cc8c479d7402de282",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
+    "title": "Organising data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
     "_trackingId": 9,
-    "_classes": "color-nine",
-    "body": "",
-    "displayTitle": "",
-    "title": " "
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441072208e1029dcadfa8",
+    "_parentId": "634441052208e1029dcadf85",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   },
   {
-    "_id": "57c199cfc8c479d7402de28d",
-    "_parentId": "57c199cfc8c479d7402de28c",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
+    "title": "Understanding your rights to use data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
     "_trackingId": 10,
-    "_classes": "color-nine",
-    "body": "",
-    "displayTitle": "",
-    "title": " "
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441072208e1029dcadfa9",
+    "_parentId": "634441052208e1029dcadf82",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   },
   {
-    "_id": "58888c96b61c46e176e7e6bd",
-    "_parentId": "58888c96b61c46e176e7e6bc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
+    "title": "Gathering data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
     "_trackingId": 11,
-    "_classes": "color-six",
-    "body": "",
-    "displayTitle": "",
-    "title": " "
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441072208e1029dcadfaa",
+    "_parentId": "634441042208e1029dcadf81",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   },
   {
-    "_id": "57ac459be396ef981f39e903",
-    "_parentId": "57ac437ce396ef981f39e8fc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
+    "title": "Are you ready to be a data storyteller?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "section-banner",
     "_trackingId": 12,
-    "_classes": "inverted color-four",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441082208e1029dcadfab",
+    "_parentId": "634441052208e1029dcadf8a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
   },
   {
-    "_id": "57ac5051e396ef981f39e92d",
-    "_parentId": "57ac4dd0e396ef981f39e920",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted footer",
     "_trackingId": 13,
-    "_classes": "inverted color-six",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441082208e1029dcadfac",
+    "_parentId": "634441062208e1029dcadf95",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
   },
   {
-    "_id": "57adbaefe396ef981f39e9e2",
-    "_parentId": "57adb0cce396ef981f39e9d5",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
+    "title": "Test your data gathering skills",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted  section-banner",
     "_trackingId": 14,
-    "_classes": "inverted color-five",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441082208e1029dcadfae",
+    "_parentId": "634441052208e1029dcadf8c",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   },
   {
-    "_id": "57b2c540e396ef981f39ea93",
-    "_parentId": "57b2c1c9e396ef981f39ea8d",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
+    "title": "Why does data need to be cleaned?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
     "_trackingId": 15,
-    "_classes": "inverted color-six",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441082208e1029dcadfb0",
+    "_parentId": "634441052208e1029dcadf8e",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   },
   {
-    "_id": "57b31889e396ef981f39eb1d",
-    "_parentId": "57b3182fe396ef981f39eb10",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
+    "title": "What chart should be used for time series data?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
     "_trackingId": 16,
-    "_classes": "inverted color-four",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441082208e1029dcadfb1",
+    "_parentId": "634441062208e1029dcadf90",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   },
   {
-    "_id": "57b59bb2e396ef981f39ebdb",
-    "_parentId": "57b441b1e396ef981f39ebc9",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
+    "title": "Identify the deception",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " inverted  ",
     "_trackingId": 17,
-    "_classes": "inverted color-nine",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441082208e1029dcadfb3",
+    "_parentId": "634441062208e1029dcadf92",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   },
   {
-    "_id": "5835c7c14d7b7e82691e4738",
-    "_parentId": "57b1b369e396ef981f39ea29",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
+    "title": "Which 3 steps do you need to take when planning your story?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
     "_trackingId": 18,
-    "_classes": "inverted color-four",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441082208e1029dcadfb4",
+    "_parentId": "634441062208e1029dcadf93",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   },
   {
-    "_id": "58383e414d7b7e82691e474c",
-    "_parentId": "57c198b7c8c479d7402de27f",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
+    "title": "Where is the value?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
     "_trackingId": 19,
-    "_classes": "inverted color-six",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441082208e1029dcadfb5",
+    "_parentId": "634441062208e1029dcadf94",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   },
   {
-    "_id": "58399c994d7b7e82691e4842",
-    "_parentId": "57c1992cc8c479d7402de282",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
+    "title": "Filtering and pivot tables",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted footer",
     "_trackingId": 20,
-    "_classes": "inverted color-nine",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441082208e1029dcadfb6",
+    "_parentId": "634441062208e1029dcadf9b",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   },
   {
-    "_id": "58413e324d7b7e82691e4b81",
-    "_parentId": "57c199cfc8c479d7402de28c",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 21,
-    "_classes": "inverted color-nine",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "58888f4eb61c46e176e7e6f3",
-    "_parentId": "58888c96b61c46e176e7e6bc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 22,
-    "_classes": "inverted color-five",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57ac488ce396ef981f39e911",
-    "_parentId": "57ac437ce396ef981f39e8fc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 23,
-    "_classes": "color-four",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57adf118e396ef981f39e9f1",
-    "_parentId": "57adb0cce396ef981f39e9d5",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 24,
-    "_classes": " color-five",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b1c98ae396ef981f39ea5c",
-    "_parentId": "57b1b369e396ef981f39ea29",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 25,
-    "_classes": " color-four",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b2cf92e396ef981f39ea9d",
-    "_parentId": "57b2c1c9e396ef981f39ea8d",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 26,
-    "_classes": " color-six",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b318fce396ef981f39eb1f",
-    "_parentId": "57b3182fe396ef981f39eb10",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 27,
-    "_classes": "color-four",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b5c4e4c71a1cc67f4ee747",
-    "_parentId": "57b441b1e396ef981f39ebc9",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 28,
-    "_classes": "color-nine",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57c83e374d7b7e82691e3c36",
-    "_parentId": "57c199cfc8c479d7402de28c",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 29,
-    "_classes": "color-nine",
-    "body": "",
+    "title": "Summary",
     "displayTitle": "",
-    "title": "  "
-  },
-  {
-    "_id": "582dbf2f4d7b7e82691e44da",
-    "_parentId": "57ac4dd0e396ef981f39e920",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 30,
-    "_classes": "color-six",
     "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "58383ef64d7b7e82691e4750",
-    "_parentId": "57c198b7c8c479d7402de27f",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 31,
-    "_classes": "color-six",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "58399d084d7b7e82691e4846",
-    "_parentId": "57c1992cc8c479d7402de282",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 32,
-    "_classes": "color-nine",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "5888904db61c46e176e7e6fb",
-    "_parentId": "58888c96b61c46e176e7e6bc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 33,
-    "_classes": "color-five",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57ac4c62e396ef981f39e91d",
-    "_parentId": "57ac437ce396ef981f39e8fc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 34,
-    "_classes": "inverted color-four",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57ac5607e396ef981f39e938",
-    "_parentId": "57ac4dd0e396ef981f39e920",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 35,
-    "_classes": "inverted color-six",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "57adf4b3e396ef981f39e9f8",
-    "_parentId": "57adb0cce396ef981f39e9d5",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 36,
-    "_classes": "inverted color-five",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b1c460e396ef981f39ea31",
-    "_parentId": "57b1b369e396ef981f39ea29",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 37,
-    "_classes": "inverted color-four",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "57b2d143e396ef981f39eaa7",
-    "_parentId": "57b2c1c9e396ef981f39ea8d",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 38,
-    "_classes": "inverted color-six",
-    "body": "<p>Try the two games below to see how effective pop-out can be. All you have to do is find the odd one out as quickly as possible.</p>\n",
-    "displayTitle": "How effective is pop out?",
-    "title": "How effective is pop out?"
-  },
-  {
-    "_id": "57b319a1e396ef981f39eb26",
-    "_parentId": "57b3182fe396ef981f39eb10",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 39,
-    "_classes": "inverted color-four ",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b5ccbcc71a1cc67f4ee74d",
-    "_parentId": "57b441b1e396ef981f39ebc9",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 40,
-    "_classes": "inverted color-nine",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57d030ba4d7b7e82691e3c4d",
-    "_parentId": "57c199cfc8c479d7402de28c",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 41,
-    "_classes": "inverted color-nine",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "58383f664d7b7e82691e4755",
-    "_parentId": "57c198b7c8c479d7402de27f",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 42,
-    "_classes": "inverted color-six",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "58399d7a4d7b7e82691e4849",
-    "_parentId": "57c1992cc8c479d7402de282",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 43,
-    "_classes": "inverted color-nine",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "588892ccb61c46e176e7e710",
-    "_parentId": "58888c96b61c46e176e7e6bc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 44,
-    "_classes": "inverted color-five",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57ac549ce396ef981f39e933",
-    "_parentId": "57ac437ce396ef981f39e8fc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 45,
-    "_classes": "color-four ",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57ac7dcbe396ef981f39e9b3",
-    "_parentId": "57ac4dd0e396ef981f39e920",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 46,
-    "_classes": " color-six",
-    "body": "",
-    "displayTitle": "",
-    "title": " "
-  },
-  {
-    "_id": "57adf5bae396ef981f39ea02",
-    "_parentId": "57adb0cce396ef981f39e9d5",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 47,
-    "_classes": "section-banner color-seven",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b2e232e396ef981f39eabd",
-    "_parentId": "57b2c1c9e396ef981f39ea8d",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 48,
-    "_classes": "color-six ",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b30c51e396ef981f39eaf1",
-    "_parentId": "57b1b369e396ef981f39ea29",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 49,
-    "_classes": "color-seven section-banner",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "57b31a70e396ef981f39eb2d",
-    "_parentId": "57b3182fe396ef981f39eb10",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 50,
-    "_classes": "color-four",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b5cdc5c71a1cc67f4ee752",
-    "_parentId": "57b441b1e396ef981f39ebc9",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 51,
-    "_classes": "color-nine",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "583840764d7b7e82691e475b",
-    "_parentId": "57c198b7c8c479d7402de27f",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 52,
-    "_classes": "color-six",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "58399db74d7b7e82691e484c",
-    "_parentId": "57c1992cc8c479d7402de282",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 53,
-    "_classes": "color-nine",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "583d4ffc4d7b7e82691e4ab8",
-    "_parentId": "57c199cfc8c479d7402de28c",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 54,
-    "_classes": "color-nine",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "5888949bb61c46e176e7e729",
-    "_parentId": "58888c96b61c46e176e7e6bc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 55,
-    "_classes": "color-five",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57ac5781e396ef981f39e944",
-    "_parentId": "57ac437ce396ef981f39e8fc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 56,
-    "_classes": "inverted color-four ",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57ac65e0e396ef981f39e9ad",
-    "_parentId": "57ac4dd0e396ef981f39e920",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 57,
-    "_classes": "inverted color-six",
-    "body": "",
-    "displayTitle": "",
-    "title": " "
-  },
-  {
-    "_id": "57b1c558e396ef981f39ea38",
-    "_parentId": "57adb0cce396ef981f39e9d5",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 58,
-    "_classes": "inverted color-seven ",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b2e334e396ef981f39eac2",
-    "_parentId": "57b2c1c9e396ef981f39ea8d",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 59,
-    "_classes": "section-banner inverted color-seven ",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b30e37e396ef981f39eaf6",
-    "_parentId": "57b1b369e396ef981f39ea29",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 60,
-    "_classes": " inverted color-seven",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b31b1be396ef981f39eb35",
-    "_parentId": "57b3182fe396ef981f39eb10",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 61,
-    "_classes": "inverted color-four",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b5ce70c71a1cc67f4ee758",
-    "_parentId": "57b441b1e396ef981f39ebc9",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 62,
-    "_classes": " inverted color-seven section-banner",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "5838410e4d7b7e82691e475f",
-    "_parentId": "57c198b7c8c479d7402de27f",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 63,
-    "_classes": "inverted color-seven section-banner",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "5839a52b4d7b7e82691e484e",
-    "_parentId": "57c1992cc8c479d7402de282",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 64,
-    "_classes": "inverted color-seven ",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "583d565d4d7b7e82691e4abe",
-    "_parentId": "57c199cfc8c479d7402de28c",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 65,
-    "_classes": "inverted color-nine",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "588895fbb61c46e176e7e73e",
-    "_parentId": "58888c96b61c46e176e7e6bc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 66,
-    "_classes": "inverted color-seven section-banner",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57ac5c52e396ef981f39e951",
-    "_parentId": "57ac437ce396ef981f39e8fc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 67,
-    "_classes": " color-seven section-banner",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57ac8152e396ef981f39e9c0",
-    "_parentId": "57ac4dd0e396ef981f39e920",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 68,
-    "_classes": " ",
-    "body": "",
-    "displayTitle": "",
-    "title": "  "
-  },
-  {
-    "_id": "57b1c551e396ef981f39ea37",
-    "_parentId": "57adb0cce396ef981f39e9d5",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 69,
-    "_classes": " color-seven",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b2e38ae396ef981f39eac8",
-    "_parentId": "57b2c1c9e396ef981f39ea8d",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 70,
-    "_classes": " color-seven",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b3137fe396ef981f39eb05",
-    "_parentId": "57b1b369e396ef981f39ea29",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 71,
-    "_classes": "color-seven",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b31c06e396ef981f39eb3d",
-    "_parentId": "57b3182fe396ef981f39eb10",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 72,
-    "_classes": "section-banner color-seven",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b5d062c71a1cc67f4ee75d",
-    "_parentId": "57b441b1e396ef981f39ebc9",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 73,
-    "_classes": " ",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "58385a5e4d7b7e82691e4770",
-    "_parentId": "57c198b7c8c479d7402de27f",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 74,
-    "_classes": "",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "5839a5c74d7b7e82691e4853",
-    "_parentId": "57c1992cc8c479d7402de282",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 75,
-    "_classes": "color-seven",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "583f24f64d7b7e82691e4ae8",
-    "_parentId": "57c199cfc8c479d7402de28c",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 76,
-    "_classes": "color-seven section-banner",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "5888a48fb61c46e176e7e77d",
-    "_parentId": "58888c96b61c46e176e7e6bc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 77,
-    "_classes": "color-seven",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57ac5f84e396ef981f39e959",
-    "_parentId": "57ac437ce396ef981f39e8fc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 78,
-    "_classes": " inverted color-seven ",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57ac825ee396ef981f39e9c6",
-    "_parentId": "57ac4dd0e396ef981f39e920",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 79,
-    "_classes": "inverted color-seven section-banner",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "57b1c530e396ef981f39ea36",
-    "_parentId": "57adb0cce396ef981f39e9d5",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 80,
-    "_classes": "inverted color-seven",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b2e599e396ef981f39ead3",
-    "_parentId": "57b2c1c9e396ef981f39ea8d",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 81,
-    "_classes": "inverted color-seven",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b3168ee396ef981f39eb0a",
-    "_parentId": "57b1b369e396ef981f39ea29",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 82,
-    "_classes": "inverted color-seven",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b31c62e396ef981f39eb51",
-    "_parentId": "57b3182fe396ef981f39eb10",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 83,
-    "_classes": "inverted color-seven",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b5d202c71a1cc67f4ee762",
-    "_parentId": "57b441b1e396ef981f39ebc9",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 84,
-    "_classes": " inverted color-seven",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "58385b534d7b7e82691e4773",
-    "_parentId": "57c198b7c8c479d7402de27f",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 85,
-    "_classes": "inverted color-seven",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "5839a6d44d7b7e82691e4856",
-    "_parentId": "57c1992cc8c479d7402de282",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 86,
-    "_classes": "inverted color-seven",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "583dad834d7b7e82691e4aca",
-    "_parentId": "57c199cfc8c479d7402de28c",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 87,
-    "_classes": "inverted color-seven",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "5888a568b61c46e176e7e794",
-    "_parentId": "58888c96b61c46e176e7e6bc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 88,
-    "_classes": "inverted color-seven",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57ac619ee396ef981f39e96a",
-    "_parentId": "57ac437ce396ef981f39e8fc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 89,
-    "_classes": "color-seven ",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57ac8324e396ef981f39e9cb",
-    "_parentId": "57ac4dd0e396ef981f39e920",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 90,
-    "_classes": " ",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "57adf677e396ef981f39ea0a",
-    "_parentId": "57adb0cce396ef981f39e9d5",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 91,
-    "_classes": "footer inverted",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b2e66ce396ef981f39ead9",
-    "_parentId": "57b2c1c9e396ef981f39ea8d",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 92,
-    "_classes": " color-seven",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b31832e396ef981f39eb12",
-    "_parentId": "57b1b369e396ef981f39ea29",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 93,
     "_classes": "inverted footer ",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
+    "_trackingId": 21,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410b2208e1029dcadfcd",
+    "_parentId": "634441062208e1029dcadf96",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   },
   {
-    "_id": "57b31d0fe396ef981f39eb65",
-    "_parentId": "57b3182fe396ef981f39eb10",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 94,
-    "_classes": "color-seven",
+    "title": "Summary",
+    "displayTitle": "",
     "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b5d401c71a1cc67f4ee767",
-    "_parentId": "57b441b1e396ef981f39ebc9",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 95,
-    "_classes": " ",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "58385be34d7b7e82691e4780",
-    "_parentId": "57c198b7c8c479d7402de27f",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 96,
-    "_classes": "",
-    "body": "",
-    "displayTitle": "   ",
-    "title": "   "
-  },
-  {
-    "_id": "5839a7714d7b7e82691e4858",
-    "_parentId": "57c1992cc8c479d7402de282",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 97,
-    "_classes": "color-seven",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "583db5d04d7b7e82691e4ad4",
-    "_parentId": "57c199cfc8c479d7402de28c",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 98,
-    "_classes": "color-seven",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "5888a842b61c46e176e7e7c4",
-    "_parentId": "58888c96b61c46e176e7e6bc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 99,
-    "_classes": "color-seven",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57ac62d4e396ef981f39e97a",
-    "_parentId": "57ac437ce396ef981f39e8fc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 100,
-    "_classes": "inverted color-seven ",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57ac8a1be396ef981f39e9d1",
-    "_parentId": "57ac4dd0e396ef981f39e920",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 101,
-    "_classes": "inverted color-seven ",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b2e7f1e396ef981f39eae0",
-    "_parentId": "57b2c1c9e396ef981f39ea8d",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 102,
     "_classes": "inverted footer",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
+    "_trackingId": 22,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410b2208e1029dcadfce",
+    "_parentId": "634441062208e1029dcadf97",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   },
   {
-    "_id": "57b31d82e396ef981f39eb79",
-    "_parentId": "57b3182fe396ef981f39eb10",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 103,
-    "_classes": "inverted color-seven",
+    "title": "Gathering data",
+    "displayTitle": "",
     "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b5d92ac71a1cc67f4ee76b",
-    "_parentId": "57b441b1e396ef981f39ebc9",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 104,
-    "_classes": "inverted footer",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "58385c614d7b7e82691e4783",
-    "_parentId": "57c198b7c8c479d7402de27f",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 105,
-    "_classes": "inverted color-seven",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "5839a83c4d7b7e82691e485a",
-    "_parentId": "57c1992cc8c479d7402de282",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 106,
-    "_classes": "inverted footer",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "583db7f74d7b7e82691e4ad9",
-    "_parentId": "57c199cfc8c479d7402de28c",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 107,
-    "_classes": "inverted color-seven",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "5888a8c5b61c46e176e7e7dc",
-    "_parentId": "58888c96b61c46e176e7e6bc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 108,
-    "_classes": "inverted color-seven",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57ac6439e396ef981f39e98c",
-    "_parentId": "57ac437ce396ef981f39e8fc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 109,
-    "_classes": "inverted footer",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "57b1a45be396ef981f39ea1e",
-    "_parentId": "57ac4dd0e396ef981f39e920",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 110,
-    "_classes": " ",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "57b31e24e396ef981f39eb8d",
-    "_parentId": "57b3182fe396ef981f39eb10",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 111,
-    "_classes": "color-seven",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "58385da74d7b7e82691e4795",
-    "_parentId": "57c198b7c8c479d7402de27f",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 112,
-    "_classes": "inverted footer",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "583f25064d7b7e82691e4aed",
-    "_parentId": "57c199cfc8c479d7402de28c",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 113,
-    "_classes": "inverted footer  ",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  "
-  },
-  {
-    "_id": "5888a9ecb61c46e176e7e7df",
-    "_parentId": "58888c96b61c46e176e7e6bc",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 114,
     "_classes": "footer inverted",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
+    "_trackingId": 23,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410b2208e1029dcadfcf",
+    "_parentId": "634441062208e1029dcadf98",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   },
   {
-    "_id": "57b31e9fe396ef981f39eba1",
-    "_parentId": "57b3182fe396ef981f39eb10",
-    "_type": "block",
-    "_isAvailable": true,
+    "title": "Cleaning data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted footer",
+    "_trackingId": 24,
+    "instruction": "",
     "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410b2208e1029dcadfd0",
+    "_parentId": "634441062208e1029dcadf99",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Test your spreadsheet skills",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted footer",
+    "_trackingId": 25,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410b2208e1029dcadfd1",
+    "_parentId": "634441062208e1029dcadf9a",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Visualisation essentials",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "footer inverted",
+    "_trackingId": 26,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410b2208e1029dcadfd2",
+    "_parentId": "634441062208e1029dcadf9c",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted footer",
+    "_trackingId": 27,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410b2208e1029dcadfd3",
+    "_parentId": "634441062208e1029dcadf9d",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Have you been deceived?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted footer",
+    "_trackingId": 28,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410b2208e1029dcadfd4",
+    "_parentId": "634441062208e1029dcadf9e",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted footer  ",
+    "_trackingId": 29,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410b2208e1029dcadfd5",
+    "_parentId": "634441072208e1029dcadf9f",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Are you ready to put theory into practice?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "section-banner inverted  ",
+    "_trackingId": 30,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410f2208e1029dcae00c",
+    "_parentId": "634441062208e1029dcadf91",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Are you ready to legally work with data?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "section-banner",
+    "_trackingId": 31,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410f2208e1029dcae00d",
+    "_parentId": "634441052208e1029dcadf8b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Are you ready to organise your data correctly?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted  section-banner",
+    "_trackingId": 32,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441102208e1029dcae00f",
+    "_parentId": "634441052208e1029dcadf8d",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Are you ready to filter and pivot data?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "section-banner",
+    "_trackingId": 33,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441102208e1029dcae010",
+    "_parentId": "634441052208e1029dcadf8f",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Which licences grant users the most rights?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " ",
+    "_trackingId": 34,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441082208e1029dcadfad",
+    "_parentId": "634441052208e1029dcadf8b",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Which is the fastest feature of the eye?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " ",
+    "_trackingId": 35,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441082208e1029dcadfb2",
+    "_parentId": "634441062208e1029dcadf91",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Baseline failure",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 36,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441092208e1029dcadfb7",
+    "_parentId": "634441052208e1029dcadf87",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": " Why do data scientists need to tell stories?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 37,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441092208e1029dcadfb8",
+    "_parentId": "634441042208e1029dcadf80",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Data cleaning – in 2 minutes",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 38,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441092208e1029dcadfb9",
+    "_parentId": "634441052208e1029dcadf83",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A brief history of data visualisation",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 39,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441092208e1029dcadfba",
+    "_parentId": "634441052208e1029dcadf86",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Sorting and filtering data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 40,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441092208e1029dcadfbb",
+    "_parentId": "634441042208e1029dcadf7f",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "The four step data storytelling process",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 41,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441092208e1029dcadfbc",
+    "_parentId": "634441052208e1029dcadf89",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Public domain licences",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 42,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441092208e1029dcadfbd",
+    "_parentId": "634441052208e1029dcadf82",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Spreadsheet layouts",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 43,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441092208e1029dcadfbe",
+    "_parentId": "634441052208e1029dcadf85",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Story narration in 2 minutes",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 44,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441092208e1029dcadfbf",
+    "_parentId": "634441052208e1029dcadf84",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Downloadable and hidden data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 45,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441092208e1029dcadfc0",
+    "_parentId": "634441042208e1029dcadf81",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Visualisation and the visual cortex",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 46,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410a2208e1029dcadfc1",
+    "_parentId": "634441052208e1029dcadf88",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Which new fields have emerged that change the way we find stories in data?",
+    "displayTitle": "  Which new fields have emerged that change the way we find stories in data?",
+    "body": "",
+    "_classes": " ",
+    "_trackingId": 47,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410a2208e1029dcadfc2",
+    "_parentId": "634441052208e1029dcadf8a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "What is hidden data?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 48,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410a2208e1029dcadfc4",
+    "_parentId": "634441052208e1029dcadf8c",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "How many tables per sheet?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 49,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410a2208e1029dcadfc5",
+    "_parentId": "634441052208e1029dcadf8d",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "What are two of the most useful tools for cleaning data?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 50,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410a2208e1029dcadfc6",
+    "_parentId": "634441052208e1029dcadf8e",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Exploring large datasets",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 51,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410a2208e1029dcadfc7",
+    "_parentId": "634441052208e1029dcadf8f",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "What chart shows the distribution of data?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " ",
+    "_trackingId": 52,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410a2208e1029dcadfc8",
+    "_parentId": "634441062208e1029dcadf90",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Identify the deception",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " ",
+    "_trackingId": 53,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410a2208e1029dcadfca",
+    "_parentId": "634441062208e1029dcadf92",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "How many lines should your headline fit on to?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 54,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410a2208e1029dcadfcb",
+    "_parentId": "634441062208e1029dcadf93",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Checking your data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 55,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410a2208e1029dcadfcc",
+    "_parentId": "634441062208e1029dcadf94",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Openly licensed content",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 56,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410a2208e1029dcadfc3",
+    "_parentId": "634441052208e1029dcadf8b",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Making information pop",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 57,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410a2208e1029dcadfc9",
+    "_parentId": "634441062208e1029dcadf91",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Multiple scales",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 58,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410b2208e1029dcadfd6",
+    "_parentId": "634441052208e1029dcadf87",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Finding downloadable data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 59,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410b2208e1029dcadfd7",
+    "_parentId": "634441042208e1029dcadf81",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "  How data has changed the way we find stories",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 60,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410b2208e1029dcadfd8",
+    "_parentId": "634441042208e1029dcadf80",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Essential charts",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " ",
+    "_trackingId": 61,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410b2208e1029dcadfd9",
+    "_parentId": "634441052208e1029dcadf86",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Open Licences",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 62,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410c2208e1029dcadfda",
+    "_parentId": "634441052208e1029dcadf82",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Choosing the right format",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 63,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410c2208e1029dcadfdb",
+    "_parentId": "634441052208e1029dcadf84",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Formula and statistics",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 64,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410c2208e1029dcadfdc",
+    "_parentId": "634441042208e1029dcadf7f",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "What do we mean by clean data?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 65,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410c2208e1029dcadfdd",
+    "_parentId": "634441052208e1029dcadf83",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Perfect column titles",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 66,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410c2208e1029dcadfde",
+    "_parentId": "634441052208e1029dcadf85",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Making information pop",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " ",
+    "_trackingId": 67,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410c2208e1029dcadfdf",
+    "_parentId": "634441052208e1029dcadf88",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Components of the four step process",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " ",
+    "_trackingId": 68,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410c2208e1029dcadfe0",
+    "_parentId": "634441052208e1029dcadf89",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "How should we tell stories found through analysing data?",
+    "displayTitle": "How should we tell stories found through analysing data?",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 69,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410c2208e1029dcadfe1",
+    "_parentId": "634441052208e1029dcadf8a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "How do you search for data?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 70,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410c2208e1029dcadfe3",
+    "_parentId": "634441052208e1029dcadf8c",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Which is the best column title?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 71,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410c2208e1029dcadfe4",
+    "_parentId": "634441052208e1029dcadf8d",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Recognising errors",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 72,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410c2208e1029dcadfe5",
+    "_parentId": "634441052208e1029dcadf8e",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Fast formula",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 73,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410c2208e1029dcadfe6",
+    "_parentId": "634441052208e1029dcadf8f",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Which is best for a population map?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 74,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410c2208e1029dcadfe7",
+    "_parentId": "634441062208e1029dcadf90",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "What type of chart?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 75,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410d2208e1029dcadfe9",
+    "_parentId": "634441062208e1029dcadf92",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "How can others help you share your story?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 76,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410d2208e1029dcadfea",
+    "_parentId": "634441062208e1029dcadf93",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Planning a project",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 77,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410d2208e1029dcadfeb",
+    "_parentId": "634441062208e1029dcadf94",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Which of the following is considered fair use?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " ",
+    "_trackingId": 78,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410c2208e1029dcadfe2",
+    "_parentId": "634441052208e1029dcadf8b",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Using colour",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " ",
+    "_trackingId": 79,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410d2208e1029dcadfe8",
+    "_parentId": "634441062208e1029dcadf91",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "  How data has changed the way we tell stories",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 80,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410d2208e1029dcadfec",
+    "_parentId": "634441042208e1029dcadf80",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Adding depth and area",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 81,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410d2208e1029dcadfed",
+    "_parentId": "634441052208e1029dcadf87",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Copyright exceptions",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 82,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410d2208e1029dcadfee",
+    "_parentId": "634441052208e1029dcadf82",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Maps",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 83,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410d2208e1029dcadfef",
+    "_parentId": "634441052208e1029dcadf86",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Planning your time",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 84,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410d2208e1029dcadff0",
+    "_parentId": "634441052208e1029dcadf89",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Pivot tables",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 85,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410d2208e1029dcadff1",
+    "_parentId": "634441042208e1029dcadf7f",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Planning and framing your story",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 86,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410d2208e1029dcadff2",
+    "_parentId": "634441052208e1029dcadf84",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Common errors in data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 87,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410d2208e1029dcadff3",
+    "_parentId": "634441052208e1029dcadf83",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Header rows and the freeze function",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 88,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410e2208e1029dcadff4",
+    "_parentId": "634441052208e1029dcadf85",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Finding hidden data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 89,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410e2208e1029dcadff5",
+    "_parentId": "634441042208e1029dcadf81",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "How effective is pop out?",
+    "displayTitle": "How effective is pop out?",
+    "body": "<p>Try the two games below to see how effective pop-out can be. All you have to do is find the odd one out as quickly as possible.</p>\n",
+    "_classes": "",
+    "_trackingId": 90,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410e2208e1029dcadff6",
+    "_parentId": "634441052208e1029dcadf88",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "How much money could the NHS potentially save if they used non-branded statins?",
+    "displayTitle": "How much money could the NHS potentially save if they used non-branded statins?",
+    "body": "",
+    "_classes": " ",
+    "_trackingId": 91,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410e2208e1029dcadff7",
+    "_parentId": "634441052208e1029dcadf8a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "How might you extract hidden data from a website?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 92,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410e2208e1029dcadff8",
+    "_parentId": "634441052208e1029dcadf8c",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Keeping column titles in view",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 93,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410e2208e1029dcadff9",
+    "_parentId": "634441052208e1029dcadf8d",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "How much time can be spent cleaning and preparing data?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 94,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410e2208e1029dcadffa",
+    "_parentId": "634441052208e1029dcadf8e",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Data analysis",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 95,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410e2208e1029dcadffb",
+    "_parentId": "634441052208e1029dcadf8f",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Percentages",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " ",
+    "_trackingId": 96,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410e2208e1029dcadffc",
+    "_parentId": "634441052208e1029dcadf87",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Data story: £200m saving for the NHS",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 97,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410e2208e1029dcadffd",
+    "_parentId": "634441042208e1029dcadf80",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Drafting your story",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 98,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410e2208e1029dcadffe",
+    "_parentId": "634441052208e1029dcadf84",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Are you ready to start the four step process?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " section-banner",
+    "_trackingId": 99,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410e2208e1029dcadfff",
+    "_parentId": "634441052208e1029dcadf89",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Are you ready to visualise data?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "section-banner ",
+    "_trackingId": 100,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410f2208e1029dcae000",
+    "_parentId": "634441052208e1029dcadf86",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Fair use",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 101,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410f2208e1029dcae001",
+    "_parentId": "634441052208e1029dcadf82",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "The data-cleaning toolkit",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 102,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410f2208e1029dcae002",
+    "_parentId": "634441052208e1029dcadf83",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Data types",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 103,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410f2208e1029dcae003",
+    "_parentId": "634441052208e1029dcadf85",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Benefits of hidden data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 104,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410f2208e1029dcae004",
+    "_parentId": "634441042208e1029dcadf81",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Using colour",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " ",
+    "_trackingId": 105,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410f2208e1029dcae005",
+    "_parentId": "634441052208e1029dcadf88",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Benefits of hidden data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 106,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410f2208e1029dcae006",
+    "_parentId": "634441052208e1029dcadf8c",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Which data type?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 107,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410f2208e1029dcae007",
+    "_parentId": "634441052208e1029dcadf8d",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Data analysis",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 108,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410f2208e1029dcae008",
+    "_parentId": "634441042208e1029dcadf7f",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Area and stacked area charts",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 109,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410f2208e1029dcae009",
+    "_parentId": "634441052208e1029dcadf87",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Data story: Saving children ends population growth",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 110,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410f2208e1029dcae00a",
+    "_parentId": "634441042208e1029dcadf80",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Polish, Publish, Promote!",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 111,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6344410f2208e1029dcae00b",
+    "_parentId": "634441052208e1029dcadf84",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "What are the benefits of cleaning data?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 112,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441102208e1029dcae00e",
+    "_parentId": "634441052208e1029dcadf83",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Can you avoid being deceived?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "  section-banner",
+    "_trackingId": 113,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441102208e1029dcae011",
+    "_parentId": "634441052208e1029dcadf87",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Data story: Mortality of the British Army",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " ",
+    "_trackingId": 114,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441102208e1029dcae012",
+    "_parentId": "634441042208e1029dcadf80",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Are you ready to communicate your story?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " section-banner",
     "_trackingId": 115,
-    "_classes": "inverted footer",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441102208e1029dcae014",
+    "_parentId": "634441052208e1029dcadf84",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   },
   {
-    "_id": "583ef3b74d7b7e82691e4adc",
-    "_parentId": "57ac4dd0e396ef981f39e920",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 116,
-    "_classes": "inverted footer",
+    "title": "Are you ready to clean data?",
+    "displayTitle": "",
     "body": "",
-    "displayTitle": "  ",
-    "title": "  "
+    "_classes": "section-banner ",
+    "_trackingId": 116,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "634441102208e1029dcae015",
+    "_parentId": "634441052208e1029dcadf83",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
   }
 ]
