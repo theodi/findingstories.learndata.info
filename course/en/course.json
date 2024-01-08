@@ -341,6 +341,9 @@
         "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
         "labelStart": "Start of the scale",
         "labelEnd": "End of the scale"
+      },
+      "_csvGrader": {
+        "ariaRegion": "<p>Text input. Type your answer and then submit.</p>"
       }
     },
     "_menu": {
