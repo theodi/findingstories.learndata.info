@@ -278,20 +278,42 @@
     "_layout": "full",
     "_parentId": "6344410a2208e1029dcadfc1",
     "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "instruction": "Click the forward arrow to find out how.",
+    "mobileInstruction": "Click the forward arrow to find out how.",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_isStackedOnMobile": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
     "_items": [
       {
-        "strapline": "The human eye",
+        "title": "The human eye",
+        "body": "<p>The human eye, along with the visual cortex, is capable of processing trillions of points of information simultaneously.</p><p>The human eye is very sensitive to detail. It can instantly re-focus on objects at different distances. It can also instantly change the amount of light that enters the eye in order to deal with high and low light&nbsp;levels.&nbsp;&nbsp;</p><p>Technologies such as <a href=\"https://en.wikipedia.org/wiki/Light-field_camera\" target=\"_blank\">Light Field</a> cameras and <a href=\"https://en.wikipedia.org/wiki/High-dynamic-range_imaging\" target=\"_blank\">High Dynamic Range</a>&nbsp;which have the ability to capture a level of detail similar to the eye are beginning to emerge, but have taken thousands of years longer than the eye.</p>",
         "_graphic": {
-          "attribution": "<a href=\"https://www.flickr.com/photos/7180688@N06/517565400/in/photostream/\" target=\"_blank\">Ahmed</a> <span class='assetLicence'>[CC-BY]</span>",
+          "src": "course/en/assets/f3eeff7b4f58fb6bbfd7172e16a925f54de5c763.jpg",
           "alt": "",
-          "src": "course/en/assets/f3eeff7b4f58fb6bbfd7172e16a925f54de5c763.jpg"
+          "attribution": "<a href=\"https://www.flickr.com/photos/7180688@N06/517565400/in/photostream/\" target=\"_blank\">Ahmed</a> <span class='assetLicence'>[CC-BY]</span>"
         },
-        "body": "<p>The human eye, along with the visual cortex, is capable of processing trillions of points of information simultaneously.</p><p>The human eye is very sensitive to detail. It can instantly re-focus on objects at different distances. It can also instantly change the amount of light that enters the eye in order to deal with high and low light&nbsp;levels.&nbsp;&nbsp;</p><p>Technologies such as <a href=\"https://en.wikipedia.org/wiki/Light-field_camera\">Light Field</a> cameras and <a href=\"https://en.wikipedia.org/wiki/High-dynamic-range_imaging\">High Dynamic Range</a>&nbsp;which have the ability to capture a level of detail similar to the eye are beginning to emerge, but have taken thousands of years longer than the eye.</p>",
-        "title": "The human eye"
+        "strapline": "The human eye"
       },
       {
         "strapline": "The visual cortex",
@@ -313,11 +335,7 @@
         "body": "<p>The dorsal stream is the pathway in the visual cortex. It is responsible for recognising where things are and how they are going to affect you.</p><p>For example, if someone throws something at you unexpectedly, it&#39;s the dorsal stream that will react to&nbsp;help defend you.&nbsp;You act without thinking.</p><p>We can use the same trick in data visualisation to make information pop without needed to rely on the ventral stream to work out what that information is first.&nbsp;</p>",
         "title": "Fast path visualisation"
       }
-    ],
-    "_setCompletionOn": "allItems",
-    "_hasNavigationInTextArea": false,
-    "mobileInstruction": "Click the forward arrow to find out how.",
-    "instruction": "Click the forward arrow to find out how."
+    ]
   },
   {
     "_component": "accordion",
@@ -778,11 +796,26 @@
     "_disableAccessibilityState": false,
     "title": "Planning your time",
     "displayTitle": "Planning your time",
-    "body": "<p dir=\"ltr\">It is important to plan your time carefully in any data&nbsp;project. Follow these steps&nbsp;to help you plan efficiently.</p><p dir=\"ltr\"><u>The 80:20 rule for data storytelling</u></p><p dir=\"ltr\">Gathering, organising, filtering and cleaning of data will take 80% of your time. Done right this can significantly reduce the time you spend in the analysis and visualisation.</p><p dir=\"ltr\"><u>Develop your narrative at the beginning</u></p><p dir=\"ltr\">Much like research&nbsp;has a hypothesis to test from the start, it&#39;s useful to spend the first stages of a project outlining the&nbsp;audience and narrative. This will help keep the data collection focused and time to a minimum.&nbsp;</p>",
+    "body": "<p dir=\"ltr\">It is important to plan your time carefully in any data&nbsp;project. Follow these steps&nbsp;to help you plan efficiently.</p><p dir=\"ltr\"><strong>The 80:20 rule for data storytelling</strong></p><p dir=\"ltr\">Gathering, organising, filtering and cleaning of data will take 80% of your time. Done right this can significantly reduce the time you spend in the analysis and visualisation.</p><p dir=\"ltr\"><strong>Develop your narrative at the beginning</strong></p><p dir=\"ltr\">Much like research&nbsp;has a hypothesis to test from the start, it's useful to spend the first stages of a project outlining the&nbsp;audience and narrative. This will help keep the data collection focused and time to a minimum.&nbsp;</p>",
     "_id": "634441142208e1029dcae05b",
     "_layout": "left",
     "_parentId": "6344410d2208e1029dcadff0",
     "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
@@ -983,11 +1016,26 @@
     "_disableAccessibilityState": false,
     "title": "Filtering and pivot tables",
     "displayTitle": "Filtering and pivot tables",
-    "body": "<p>Once your data is organised and clean, you can now begin to filter and analyse the data.</p>\n\n<p>In this module we will learn how to:</p>\n\n<ul>\n\t<li>Sort and filter&nbsp;data in a spreadsheet</li>\n\t<li>Apply&nbsp;formula to generate simple statistics</li>\n\t<li>Create a number of pivot tables</li>\n\t<li>Create a number of summary graphs</li>\n</ul>\n\n<p>To prepare you for this exercise you will need&nbsp;<a href=\"https://drive.google.com/open?id=0B1VBoooQ3X5jT0RSOVk3SnJuWlU\" target=\"_blank\">this spreadsheet</a>. Note that it has two sheets;&nbsp;the first tab holds the data,&nbsp;and the second tab called &#39;Statistics&#39; will&nbsp;be used when we look at formula.&nbsp;</p>\n",
+    "body": "<p>Once your data is organised and clean, you can now begin to filter and analyse the data.</p><p>In this module we will learn how to:</p><ul><li>Sort and filter&nbsp;data in a spreadsheet</li><li>Apply&nbsp;formula to generate simple statistics</li><li>Create a number of pivot tables</li><li>Create a number of summary graphs</li></ul><p>To prepare you for this exercise you will need&nbsp;<a href=\"https://drive.google.com/file/d/0B1VBoooQ3X5jT0RSOVk3SnJuWlU/view?pli=1&amp;resourcekey=0-1gG1TcgZF8RAWrmK5bZbAA\" target=\"_blank\">this spreadsheet</a>. Note that it has two sheets;&nbsp;the first tab holds the data,&nbsp;and the second tab called 'Statistics' will&nbsp;be used when we look at formula.&nbsp;</p>",
     "_id": "634441142208e1029dcae06a",
     "_layout": "left",
     "_parentId": "634441072208e1029dcadfa1",
     "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
@@ -1365,55 +1413,80 @@
     "_disableAccessibilityState": false,
     "title": "Finding downloadable data",
     "displayTitle": "Finding downloadable data",
-    "body": "<p>A lot of data can be simply downloaded through clicking buttons.&nbsp;However, there are still challenges in finding this data in the first place&nbsp;and&nbsp;getting hold of it if there isn&#39;t a download button.</p>\n",
+    "body": "<p>A lot of data can be simply downloaded through clicking buttons.&nbsp;However, there are still challenges in finding this data in the first place&nbsp;and&nbsp;getting hold of it if there isn't a download button.</p>",
     "_id": "634441162208e1029dcae088",
     "_layout": "right",
     "_parentId": "6344410b2208e1029dcadfd7",
     "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
-    "_shouldCollapseItems": true,
+    "instruction": "Click below to explore each of the tools to unlock downloadable data",
+    "_setCompletionOn": "allItems",
     "_items": [
       {
-        "_classes": "",
+        "title": "Data portals",
+        "body": "<p>Many suppliers are helpful and give you human-readable download links in order to obtain their data.</p><p>Explore the links below to discover more:</p><ul><li><a href=\"http://data.gov.uk/dataset/monthly-land-registry-property-transaction-data\" target=\"_blank\">data.gov.uk - Land Registry Monthly Property Transaction Data</a></li><li><a href=\"http://www.necta.go.tz/brn2015/\" target=\"_blank\">School ranking data in Tanzania</a></li><li><a href=\"https://www.opendata.go.ke/ECD-and-Primary-EDU/Enrollment-of-Primary-School-Children-By-Gender-Cl/t3xp-5ce7\" target=\"_blank\">School enrolment data in Kenya</a></li></ul>",
+        "_imageAlignment": "full",
         "_graphic": {
+          "alt": "",
           "src": "",
-          "alt": ""
+          "attribution": ""
         },
-        "body": "<p>Many suppliers are helpful and give you human-readable download links in order to obtain their data.</p>\n\n<p>Explore the links below to discover more:</p>\n\n<ul>\n\t<li><a href=\"http://data.gov.uk/dataset/monthly-land-registry-property-transaction-data\" target=\"_blank\">data.gov.uk - Land Registry Monthly Property Transaction Data</a></li>\n\t<li><a href=\"http://www.necta.go.tz/brn2015/\" target=\"_blank\">School ranking data in Tanzania</a></li>\n\t<li><a href=\"https://www.opendata.go.ke/ECD-and-Primary-EDU/Enrollment-of-Primary-School-Children-By-Gender-Cl/t3xp-5ce7\" target=\"_blank\">School enrolment data in Kenya</a></li>\n</ul>\n",
-        "title": "Data portals"
+        "_classes": ""
       },
       {
-        "_classes": "",
+        "title": "Power search for data",
+        "body": "<p>Many search engines, including Google, give you the ability to use advanced searches and prefixes in order to dig out data.</p><p>Try some of the following search prefixes in Google to see what you can find:</p><p><strong>filetype:</strong></p><p>Search for specific file types only, eg (xls) (<a href=\"https://www.google.co.uk/#q=filetype:xls+tanzania\" target=\"_blank\">example</a>)</p><p><strong>site:</strong></p><p>Search with a specific domain or site only (<a href=\"https://www.google.co.uk/#q=site:opendata.go.tz+education\" target=\"_blank\">example</a>)</p><p><strong>related:</strong></p><p>Search for content related to a known page (<a href=\"https://www.google.co.uk/#q=related:http:%2F%2Fwww.nationmaster.com%2Fcountry-info%2Fprofiles%2FTanzania%2FEducation\" target=\"_blank\">example</a>)</p><p><strong>link:</strong></p><p>List only pages that link to the one given (<a href=\"https://www.google.co.uk/#q=link:https:%2F%2Fwww.opendata.go.ke%2F\" target=\"_blank\">example</a>)</p>",
+        "_imageAlignment": "full",
         "_graphic": {
+          "alt": "",
           "src": "",
-          "alt": ""
+          "attribution": ""
         },
-        "body": "<p>Many search engines, including Google, give you the ability to use advanced searches and prefixes in order to dig out data.</p>\n\n<p>Try some of the following search prefixes in Google to see what you can find:</p>\n\n<p><strong>filetype:</strong></p>\n\n<p>Search for specific file types only, eg (xls) (<a href=\"https://www.google.co.uk/#q=filetype:xls+tanzania\" target=\"_blank\">example</a>)</p>\n\n<p><strong>site:</strong></p>\n\n<p>Search with a specific domain or site only (<a href=\"https://www.google.co.uk/#q=site:opendata.go.tz+education\" target=\"_blank\">example</a>)</p>\n\n<p><strong>related:</strong></p>\n\n<p>Search for content related to a known page (<a href=\"https://www.google.co.uk/#q=related:http:%2F%2Fwww.nationmaster.com%2Fcountry-info%2Fprofiles%2FTanzania%2FEducation\" target=\"_blank\">example</a>)</p>\n\n<p><strong>link:</strong></p>\n\n<p>List only pages that link to the one given (<a href=\"https://www.google.co.uk/#q=link:https:%2F%2Fwww.opendata.go.ke%2F\" target=\"_blank\">example</a>)</p>\n",
-        "title": "Power search for data"
+        "_classes": ""
       },
       {
-        "_classes": "",
+        "title": "Aggregators and portals",
+        "body": "<p>Aggregators and portals bring together data from across the Web and expose it through their own service. This creates an easy and consistent way to find and download data.</p><p>Explore the links below to find out more:</p><p><a href=\"http://enigma.io/\" target=\"_blank\">enigma.io</a></p><p>Powerful open data searching for structured data</p><p><a href=\"http://transportapi.com/\" target=\"_blank\">Transport API</a></p><p>All UK transport data, in one place, with one API</p>",
+        "_imageAlignment": "full",
         "_graphic": {
+          "alt": "",
           "src": "",
-          "alt": ""
+          "attribution": ""
         },
-        "body": "<p>Aggregators and portals bring together data from across the Web and expose it through their own service. This creates an easy and consistent way to find and download data.</p>\n\n<p>Explore the links below to find out more:</p>\n\n<p><a href=\"http://enigma.io/\" target=\"_blank\">enigma.io</a></p>\n\n<p>Powerful open data searching for structured data</p>\n\n<p><a href=\"http://transportapi.com/\" target=\"_blank\">Transport API</a></p>\n\n<p>All UK transport data, in one place, with one API</p>\n",
-        "title": "Aggregators and portals"
+        "_classes": ""
       },
       {
-        "_classes": "",
+        "title": "Web scraping",
+        "body": "<p>If you can't simply download data in a usable format, you may need to scrape it. There are now many tools to help you achieve this easily:</p><p><a href=\"http://pdftables.com/\" target=\"_blank\">pdftables.com</a></p><p>Upload a PDF, download data, simple. Try it out with&nbsp;<a href=\"http://training.theodi.org/InPractice/inpractice1/course/en/exercises/Tanzania_Rainfall.pdf\" target=\"_blank\">this file</a>.</p><p><a href=\"https://www.import.io/\" target=\"_blank\">import.io</a></p><p>Extract data from webpages in a click. Try it on&nbsp;<a href=\"http://www.4icu.org/tz/index.htm\" target=\"_blank\">this page.</a></p>",
+        "_imageAlignment": "full",
         "_graphic": {
+          "alt": "",
           "src": "",
-          "alt": ""
+          "attribution": ""
         },
-        "body": "<p>If you can&#39;t simply download data in a usable format, you may need to scrape it. There are now many tools to help you achieve this easily:</p>\n\n<p><a href=\"http://pdftables.com/\" target=\"_blank\">pdftables.com</a></p>\n\n<p>Upload a PDF, download data, simple. Try it out with&nbsp;<a href=\"http://training.theodi.org/InPractice/inpractice1/course/en/exercises/Tanzania_Rainfall.pdf\" target=\"_blank\">this file</a>.</p>\n\n<p><a href=\"http://magic.import.io/\" target=\"_blank\">magic.import.io</a></p>\n\n<p>Extract data from webpages in a click. Try it on&nbsp;<a href=\"http://www.4icu.org/tz/index.htm\" target=\"_blank\">this page.</a></p>\n",
-        "title": "Web scraping"
+        "_classes": ""
       }
     ],
-    "instruction": "Click below to explore each of the tools to unlock downloadable data"
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
   },
   {
     "_component": "graphic",
@@ -1943,12 +2016,25 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "Click the forward arrow to see more.",
     "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_isStackedOnMobile": false,
     "_hasNavigationInTextArea": false,
     "_setCompletionOn": "allItems",
     "_items": [
@@ -1964,7 +2050,7 @@
       },
       {
         "title": "Sheets and multiple sheets",
-        "body": "<p>Each sheet in a spreadsheet should&nbsp;<strong>only contain one table</strong>.</p><p>Start your table at row 1, column 1 (top left corner).</p><p>Avoid adding multiple tables starting in different parts of the sheet&nbsp;(e.g. column L row 16).</p><p>You should also avoid using multiple sheets unless it is&nbsp;necessary to collect multiple different datasets in one spreadsheet.&nbsp;</p><p>For example, if you are collecting a dataset of companies, add them all to a single sheet and avoid&nbsp;dividing&nbsp;them by type or location of company. You may end up with a sheet containing many thousands of rows, however it is easier to filter a single sheet than multiple sheets.</p><p><a href=\"#/id/57c1992cc8c479d7402de281\">Module 7</a> looks at filtering data in a spreadsheet in more detail.</p>",
+        "body": "<p>Each sheet in a spreadsheet should&nbsp;<strong>only contain one table</strong>.</p><p>Start your table at row 1, column 1 (top left corner).</p><p>Avoid adding multiple tables starting in different parts of the sheet&nbsp;(e.g. column L row 16).</p><p>You should also avoid using multiple sheets unless it is&nbsp;necessary to collect multiple different datasets in one spreadsheet.&nbsp;</p><p>For example, if you are collecting a dataset of companies, add them all to a single sheet and avoid&nbsp;dividing&nbsp;them by type or location of company. You may end up with a sheet containing many thousands of rows, however it is easier to filter a single sheet than multiple sheets.</p><p><a href=\"#/id/634441042208e1029dcadf75\">Module 7</a> looks at filtering data in a spreadsheet in more detail.</p>",
         "_graphic": {
           "src": "course/en/assets/573957752a5406198646932aca0d3797f675cd7f.jpg",
           "alt": "",
@@ -2443,11 +2529,26 @@
     "_disableAccessibilityState": false,
     "title": "Maps",
     "displayTitle": "Maps",
-    "body": "<p>Many datasets are related in some way to locations, and so visualising data on a map is the perfect way to make the data come to life. Care should be taken in creating&nbsp;the right type of map, and using&nbsp;the right features to direct the reader. For example, a map showing population across a large area should use a <a href=\"http://www.datavizcatalogue.com/methods/choropleth.html\">choropleth map</a>. A map plotting 1000 densely clustered points would probably be better as a <a href=\"https://www.london.gov.uk/what-we-do/environment/energy/london-heat-map/what-london-heat-map\">heat map</a>, as the regions will be less defined and the grid size would be smaller. You can read further about the difference between the two maps <a href=\"http://www.gretchenpeterson.com/blog/archives/2694\">here</a>.&nbsp;</p>\n\n<p>The example shown on the right details all the empty and unused building in Detroit. Having the map showing all buildings is essential.</p>\n\n<p>Aaron Koblin&#39;s&nbsp;<a href=\"http://www.aaronkoblin.com/work/flightpatterns/\" target=\"_blank\">flight patterns</a>&nbsp;is a good example of a spatial visualisation that doesn&#39;t require an underlying map layer.</p>\n",
+    "body": "<p>Many datasets are related in some way to locations, and so visualising data on a map is the perfect way to make the data come to life. Care should be taken in creating&nbsp;the right type of map, and using&nbsp;the right features to direct the reader. For example, a map showing population across a large area should use a <a href=\"http://www.datavizcatalogue.com/methods/choropleth.html\" target=\"_blank\">choropleth map</a>. A map plotting 1000 densely clustered points would probably be better as a <a href=\"https://www.london.gov.uk/what-we-do/environment/energy/london-heat-map/what-london-heat-map\" target=\"_blank\">heat map</a>, as the regions will be less defined and the grid size would be smaller. You can read further about the difference between the two maps <a href=\"http://www.gretchenpeterson.com/blog/archives/2694\" target=\"_blank\">here</a>.&nbsp;</p><p>The example shown on the right details all the empty and unused buildings in Detroit. Having the map showing all buildings is essential.</p><p>Aaron Koblin's&nbsp;<a href=\"http://www.aaronkoblin.com/work/flightpatterns/\" target=\"_blank\">flight patterns</a>&nbsp;is a good example of a spatial visualisation that doesn't require an underlying map layer.</p>",
     "_id": "634441192208e1029dcae0d9",
     "_layout": "left",
     "_parentId": "6344410d2208e1029dcadfef",
     "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
@@ -2466,11 +2567,26 @@
     "_disableAccessibilityState": false,
     "title": "A brief history of data visualisation",
     "displayTitle": "A brief history of data visualisation",
-    "body": "<p>Most&nbsp;charts used in modern data visualisation&nbsp;derive from the original design of&nbsp;<a href=\"http://en.wikipedia.org/wiki/William_Playfair\" rel=\"wikipedia\" title=\"William Playfair\">William Playfair</a>&nbsp;(1759-1823), a political economist.</p>\n\n<p>William Playfair invented several types of&nbsp;<a href=\"https://en.wikipedia.org/wiki/Information_graphics\" title=\"Information graphics\">diagrams</a>: in 1786 the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Line_chart\" title=\"Line chart\">line</a>,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Area_chart\" title=\"Area chart\">area</a>&nbsp;and&nbsp;<a href=\"https://en.wikipedia.org/wiki/Bar_chart\" title=\"Bar chart\">bar chart</a>&nbsp;of economic data, and in 1801 the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Pie_chart\" title=\"Pie chart\">pie chart</a>&nbsp;and circle graph, used to show part-whole relations.</p>\n",
+    "body": "<p>Most&nbsp;charts used in modern data visualisation&nbsp;derive from the original design of&nbsp;<a href=\"http://en.wikipedia.org/wiki/William_Playfair\" rel=\"wikipedia\" target=\"_blank\" title=\"William Playfair\">William Playfair</a>&nbsp;(1759-1823), a political economist.</p><p>William Playfair invented several types of&nbsp;<a href=\"https://en.wikipedia.org/wiki/Information_graphics\" target=\"_blank\" title=\"Information graphics\">diagrams</a>: in 1786 the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Line_chart\" target=\"_blank\" title=\"Line chart\">line</a>,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Area_chart\" target=\"_blank\" title=\"Area chart\">area</a>&nbsp;and&nbsp;<a href=\"https://en.wikipedia.org/wiki/Bar_chart\" target=\"_blank\" title=\"Bar chart\">bar chart</a>&nbsp;of economic data, and in 1801 the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Pie_chart\" target=\"_blank\" title=\"Pie chart\">pie chart</a>&nbsp;and circle graph, used to show part-whole relations.</p>",
     "_id": "634441192208e1029dcae0da",
     "_layout": "left",
     "_parentId": "634441092208e1029dcadfba",
     "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
@@ -3142,46 +3258,64 @@
     "_layout": "full",
     "_parentId": "6344410c2208e1029dcadfda",
     "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "instruction": "Explore different open licences by clicking the forward arrow",
+    "mobileInstruction": "Select the ‘+’ sign to explore further, then swipe the image to see more.",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_isStackedOnMobile": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
     "_items": [
       {
-        "strapline": "https://www.flickr.com/photos/kalexanderson/",
+        "title": "CC-BY (The Attribution Licence)",
+        "body": "<p dir=\"ltr\">If you use content published under <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY</a>, you must include a reference to&nbsp;its source.</p><p dir=\"ltr\">This open licence grants the user permission to use the content, but does not grant them rights over the content. The user cannot claim any sort of ownership or credit for the content.</p><p dir=\"ltr\">The UK Government uses this licence&nbsp;(renamed <a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\" target=\"_blank\">Open Government Licence</a>) on all of their open data.</p>",
         "_graphic": {
-          "attribution": "",
+          "src": "course/en/assets/d7a00ecc61a77891583a41ad5d6b4f88f499f67c.jpg",
           "alt": "",
-          "src": "course/en/assets/d7a00ecc61a77891583a41ad5d6b4f88f499f67c.jpg"
+          "attribution": ""
         },
-        "body": "<p dir=\"ltr\">If you use content published under <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY</a>, you must include a reference to&nbsp;its source.</p><p dir=\"ltr\">This open licence grants the user permission to use the content, but does not grant them rights over the content. The user cannot claim any sort of ownership or credit for the content.</p><p dir=\"ltr\">The UK Government uses this licence&nbsp;(renamed <a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\">Open Government Licence</a>) on all of their open data.</p>",
-        "title": "CC-BY (The Attribution Licence)"
+        "strapline": "https://www.flickr.com/photos/kalexanderson/"
       },
       {
-        "strapline": "sharing ",
+        "title": "CC-BY-SA (The Share-Alike Licence)",
+        "body": "<p dir=\"ltr\">The&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">share-alike licence</a> goes one step further than the&nbsp;attribution licence.</p><p dir=\"ltr\">Here a user of the original content&nbsp;MUST share any modifications and enhancement made to the content&nbsp;under the same, share-alike licence.</p><p dir=\"ltr\">Known as the viral licence, this share-alike condition forces users to keep the content&nbsp;open. They are not allowed to keep changes secret.&nbsp;</p><p dir=\"ltr\">Some people&nbsp;see this as a&nbsp;burden and restriction in use.</p>",
         "_graphic": {
-          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=58591429&src=lb-36497927\" target=\"_blank\">higyou</a> <span class='assetLicence'>[Shutterstock standard licence]</span>",
+          "src": "course/en/assets/ecc29cb1588c4f76a0bcf5e2f706110c960c328a.jpg",
           "alt": "",
-          "src": "course/en/assets/ecc29cb1588c4f76a0bcf5e2f706110c960c328a.jpg"
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=58591429&src=lb-36497927\" target=\"_blank\">higyou</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
         },
-        "body": "<p dir=\"ltr\">The&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">share-alike licence</a> goes one step further than the&nbsp;attribution licence.</p><p dir=\"ltr\">Here a user of the original content&nbsp;MUST share any modifications and enhancement made to the content&nbsp;under the same, share-alike licence.</p><p dir=\"ltr\">Known as the viral licence, this share-alike condition forces users to keep the content&nbsp;open. They are not allowed to keep changes secret.&nbsp;</p><p dir=\"ltr\">Some people&nbsp;see this as a&nbsp;burden and restriction in use.</p>",
-        "title": "CC-BY-SA (The Share-Alike Licence)"
+        "strapline": "sharing "
       },
       {
-        "strapline": "open",
+        "title": "Purchasing open licences",
+        "body": "<p dir=\"ltr\"><a href=\"https://opencorporates.com/\" target=\"_blank\">Open Corporates</a> makes all their data available at no cost under a CC-BY-SA licence. This means&nbsp;that all their users MUST publish&nbsp;their data.&nbsp;</p><p dir=\"ltr\">However&nbsp;if users do not want to share-alike, they can purchase a CC-BY licence from Open Corporates, allowing the user to keep&nbsp;their data closed.</p><p dir=\"ltr\">Both licences are open, however if users don't want to share-alike, they have to pay a fee.</p>",
         "_graphic": {
-          "attribution": "<a href=\"http://www.shutterstock.com/pic-238771996.html\" target=\"_blank\">Mangsaab</a> <span class='assetLicence'>[Shutterstock standard licence]</span>",
+          "src": "course/en/assets/e476d5412f3c230ba6365724bc2935db25901c21.jpg",
           "alt": "",
-          "src": "course/en/assets/e476d5412f3c230ba6365724bc2935db25901c21.jpg"
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-238771996.html\" target=\"_blank\">Mangsaab</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
         },
-        "body": "<p dir=\"ltr\"><a href=\"https://opencorporates.com/\">Open Corporates</a> makes all their data available at no cost under a CC-BY-SA licence. This means&nbsp;that all their users MUST publish&nbsp;their data.&nbsp;</p><p dir=\"ltr\">However&nbsp;if users do not want to share-alike, they can purchase a CC-BY licence from Open Corporates, allowing the user to keep&nbsp;their data closed.</p><p dir=\"ltr\">Both licences are open, however if users don&#39;t want to share-alike, they have to pay a fee.</p>",
-        "title": "Purchasing open licences"
+        "strapline": "open"
       }
-    ],
-    "_setCompletionOn": "allItems",
-    "_hasNavigationInTextArea": false,
-    "mobileInstruction": "Select the ‘+’ sign to explore further, then swipe the image to see more.",
-    "instruction": "Explore different open licences by clicking the forward arrow"
+    ]
   },
   {
     "_component": "narrative",
@@ -3810,11 +3944,26 @@
     "_disableAccessibilityState": false,
     "title": "Data story: £200m saving for the NHS",
     "displayTitle": "Data story: £200m saving for the NHS",
-    "body": "<p dir=\"ltr\">Mastadon C, in collaboration with the Open Data Institute, identified that if generic medication could be prescribed over branded medication (both equally safe and effective), the&nbsp;National Health Service (NHS) could potentially save &pound;200m in just one year alone.&nbsp;</p><p dir=\"ltr\">They discovered&nbsp;this story by analysing 37 million rows of statin prescription data in different regions across England.</p><p dir=\"ltr\">The visualisation on the left shows the percentage of proprietary statin prescription by region. You can explore the data and results for yourself at <a href=\"http://www.prescribinganalytics.com\">www.prescribinganalytics.com</a>.&nbsp;</p>",
+    "body": "<p dir=\"ltr\">Mastadon C, in collaboration with the Open Data Institute, identified that if generic medication could be prescribed over branded medication (both equally safe and effective), the&nbsp;National Health Service (NHS) could potentially save £200m in just one year alone.&nbsp;</p><p dir=\"ltr\">They discovered&nbsp;this story by analysing 37 million rows of statin prescription data in different regions across England.</p><p dir=\"ltr\">The visualisation on the left shows the percentage of proprietary statin prescription by region. You can explore the data and results for yourself at <a href=\"http://www.prescribinganalytics.com\" target=\"_blank\">www.prescribinganalytics.com</a>.&nbsp;</p>",
     "_id": "6344411d2208e1029dcae12c",
     "_layout": "right",
     "_parentId": "6344410e2208e1029dcadffd",
     "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
@@ -3986,55 +4135,74 @@
     "_layout": "full",
     "_parentId": "6344410c2208e1029dcadfe0",
     "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_isStackedOnMobile": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
     "_items": [
       {
-        "strapline": "Gathering data",
+        "title": "1. Gathering data",
+        "body": "<p dir=\"ltr\">In order to use&nbsp;data, you first need to&nbsp;<em>have</em>&nbsp;the data.&nbsp;</p><p dir=\"ltr\">Finding data can be easy, if you know where to look. However the web also contains a lot of hidden data. Find out more in the <a href=\"#/id/634441042208e1029dcadf6f\">gathering data</a> module.&nbsp;</p><p dir=\"ltr\">When you are gathering data, is it important to understand your legal rights to use the data. The <a href=\"#/id/634441042208e1029dcadf6d\">next module</a> covers some of the key legal information you need to know.</p>",
         "_graphic": {
-          "attribution": "<a href=\"http://www.shutterstock.com/pic-144137602\" target=\"_blank\">David Arts</a> <span class='assetLicence'>[Shutterstock standard licence]</span>",
+          "src": "course/en/assets/2164576f217243b4bc9bfb61f6c5f8a5b9bdbc87.jpg",
           "alt": "",
-          "src": "course/en/assets/2164576f217243b4bc9bfb61f6c5f8a5b9bdbc87.jpg"
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-144137602\" target=\"_blank\">David Arts</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
         },
-        "body": "<p dir=\"ltr\">In order to use&nbsp;data, you first need to&nbsp;<em>have</em>&nbsp;the data.&nbsp;</p><p dir=\"ltr\">Finding data can be easy, if you know where to look. However the web also contains a lot of hidden data. Find out more in the <a href=\"#/id/58888c96b61c46e176e7e6bb\">gathering data</a> module.&nbsp;</p><p dir=\"ltr\">When you are gathering data, is it important to understand your legal rights to use the data. The <a href=\"#/id/57b441b1e396ef981f39ebc8\">next module</a> covers some of the key legal information you need to know.</p>",
-        "title": "1. Gathering data"
+        "strapline": "Gathering data"
       },
       {
-        "strapline": "2. Filtering data",
+        "title": "2. Filtering data",
+        "body": "<p>The four step process outlined above&nbsp;assumes that once you have data, you can immediately start filtering and using it.&nbsp;</p><p>There are however several steps preceding the filtering of data:</p><p><a href=\"#/id/634441042208e1029dcadf71\"><u>Organising data</u></a></p><p>Data is likely to be gathered from many sources and it will be necessary to organise the data in a consistent way for analysis.&nbsp;</p><p><a href=\"#/id/634441042208e1029dcadf73\">Cleaning data</a></p><p>As you start to organise the data you are likely to note errors or inconsistencies in the data that require fixing.&nbsp;</p><p><a href=\"#/id/634441042208e1029dcadf75\">Filtering data</a></p><p>Once you have a usable dataset, it is finally possible to start filtering the data to find your story.</p>",
         "_graphic": {
-          "attribution": "<a href=\"https://www.flickr.com/photos/mjtmail/3008566512\" target=\"_blank\">mjtmail (tiggy)</a> <span class='assetLicence'>[CC-BY]</span>",
+          "src": "course/en/assets/55fdaceae3e61bfad0b68be0efcf8b4e312e1342.jpg",
           "alt": "",
-          "src": "course/en/assets/55fdaceae3e61bfad0b68be0efcf8b4e312e1342.jpg"
+          "attribution": "<a href=\"https://www.flickr.com/photos/mjtmail/3008566512\" target=\"_blank\">mjtmail (tiggy)</a> <span class='assetLicence'>[CC-BY]</span>"
         },
-        "body": "<p>The four step process outlined above&nbsp;assumes that once you have data, you can immediately start filtering and using it.&nbsp;</p><p>There are however several steps preceding the filtering of data:</p><p><a href=\"#/id/57c198b7c8c479d7402de27e\"><u>Organising data</u></a></p><p>Data is likely to be gathered from many sources and it will be necessary to organise the data in a consistent way for analysis.&nbsp;</p><p><a href=\"#/id/57b3182fe396ef981f39eb0f\">Cleaning data</a></p><p>As you start to organise the data you are likely to note errors or inconsistencies in the data that require fixing.&nbsp;</p><p><a href=\"#/id/57c1992cc8c479d7402de281\">Filtering data</a></p><p>Once you have a usable dataset, it is finally possible to start filtering the data to find your story.</p>",
-        "title": "2. Filtering data"
+        "strapline": "2. Filtering data"
       },
       {
-        "strapline": "3. Visualising data",
+        "title": "3. Visualising data",
+        "body": "<p>Once you have analysed the data, the next step is to visualise&nbsp;the data to highlight significant findings.</p><p>When it comes to visualising data, you need to consider three things:</p><p><a href=\"#/id/634441042208e1029dcadf77\">Format: Which visualisation should you choose?</a></p><p><a href=\"#/id/634441042208e1029dcadf7d\">Clarity: Does the visualisation tell your story?</a></p><p><a href=\"#/id/634441042208e1029dcadf7b\">Intrigue: Does the visualisation engage or deceive?</a></p>",
         "_graphic": {
+          "src": "course/en/assets/ca044aca014a764b789ad1c8c4481eaa0e2ef182.jpg",
           "alt": "",
-          "src": "course/en/assets/ca044aca014a764b789ad1c8c4481eaa0e2ef182.jpg"
+          "attribution": ""
         },
-        "body": "<p>Once you have analysed the data, the next step is to visualise&nbsp;the data to highlight significant findings.</p>\n\n<p>When it comes to visualising data, you need to consider three things:</p>\n\n<p><a href=\"#/id/57adb0cce396ef981f39e9d4\">Format: Which visualisation should you choose?</a></p>\n\n<p><a href=\"#/id/57b2c1c9e396ef981f39ea8c\">Clarity: Does the visualisation tell your story?</a></p>\n\n<p><a href=\"#/id/57ac437ce396ef981f39e8fb\">Intrigue: Does the visualisation engage or deceive?</a></p>\n",
-        "title": "3. Visualising data"
+        "strapline": "3. Visualising data"
       },
       {
-        "strapline": "4. Telling a story",
+        "title": "4. Telling a story",
+        "body": "<p>In order to maximise impact of your story, you need&nbsp;a strong narrative which can relate to the desired audience&nbsp;at the right time.&nbsp;</p><p>Find out more on writing&nbsp;your own narrative with the <a href=\"#/id/634441042208e1029dcadf7d\">final module</a> of this course.&nbsp;</p>",
         "_graphic": {
-          "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Eightonesix / Freepik</a> <span class='assetLicence'>[CC-BY]</span>",
+          "src": "course/en/assets/60f5321e92f1c6ea08493dd85e5da0f6b47e654b.jpg",
           "alt": "",
-          "src": "course/en/assets/60f5321e92f1c6ea08493dd85e5da0f6b47e654b.jpg"
+          "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Eightonesix / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
         },
-        "body": "<p>In order to maximise impact of your story, you need&nbsp;a strong narrative which can relate to the desired audience&nbsp;at the right time.&nbsp;</p><p>Find out more on writing&nbsp;your own narrative with the <a href=\"#/id/57c199cfc8c479d7402de28b\">final module</a> of this course.&nbsp;</p>",
-        "title": "4. Telling a story"
+        "strapline": "4. Telling a story"
       }
-    ],
-    "_setCompletionOn": "allItems",
-    "_hasNavigationInTextArea": false,
-    "mobileInstruction": "",
-    "instruction": ""
+    ]
   },
   {
     "_component": "accordion",
@@ -4048,16 +4216,32 @@
     "_disableAccessibilityState": false,
     "title": "Finding hidden data",
     "displayTitle": "Finding hidden data",
-    "body": "<p>Unfortunately, there is no standard way to access all hidden data. Even though machines like clarity and structure, the humans that design them have implemented many techniques to add this structure.</p>\n",
+    "body": "<p>Unfortunately, there is no standard way to access all hidden data. Even though machines like clarity and structure, the humans that design them have implemented many techniques to add this structure.</p>",
     "_id": "6344411d2208e1029dcae139",
     "_layout": "left",
     "_parentId": "6344410e2208e1029dcadff5",
     "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
-    "_shouldCollapseItems": true,
+    "instruction": "Explore some of the main ways to unlock hidden data below.",
+    "_setCompletionOn": "allItems",
     "_items": [
       {
         "_classes": "",
@@ -4087,16 +4271,19 @@
         "title": "Source code"
       },
       {
-        "_classes": "",
+        "title": "APIs or machine-readable interfaces",
+        "body": "<p>Some websites or Web services will expose a machine-readable interface, or API, for querying and accessing their data.</p><p>Examples of services that have APIs include:&nbsp;<a href=\"https://api.opencorporates.com/\" target=\"_blank\">Open Corporates</a>&nbsp;(open),<a href=\"http://wiki.openstreetmap.org/wiki/API\" target=\"_blank\">OpenSteetMap</a>&nbsp;(open),&nbsp;<a href=\"https://dev.twitter.com/rest/public\" target=\"_blank\">Twitter</a>&nbsp;(not completely open),&nbsp;<a href=\"https://www.flickr.com/services/api/\" target=\"_blank\">Flickr</a>&nbsp;(some content open),&nbsp;<a href=\"https://developer.linkedin.com/product-catalog\" target=\"_blank\">LinkedIn</a>&nbsp;(not open).</p><p>Most of these services use a Web-based API and allow addition of extensions (try “.json” on OpenCorporates). Although this API looks the same as the earlier example in this section, its formal status as an API provides a guarantee that the service will be available.</p>",
+        "_imageAlignment": "full",
         "_graphic": {
+          "alt": "",
           "src": "",
-          "alt": ""
+          "attribution": ""
         },
-        "body": "<p>Some websites or Web services will expose a machine-readable interface, or API, for querying and accessing their data.</p>\n\n<p>Examples of services that have APIs include:&nbsp;<a href=\"https://api.opencorporates.com/\" target=\"_blank\">Open Corporates</a>&nbsp;(open),<a href=\"http://wiki.openstreetmap.org/wiki/API\" target=\"_blank\">OpenSteetMap</a>&nbsp;(open),&nbsp;<a href=\"https://dev.twitter.com/rest/public\" target=\"_blank\">Twitter</a>&nbsp;(not completely open),&nbsp;<a href=\"https://www.flickr.com/services/api/\" target=\"_blank\">Flickr</a>&nbsp;(some content open),&nbsp;<a href=\"https://developer.linkedin.com/docs/rest-api\" target=\"_blank\">LinkedIn</a>&nbsp;(not open).</p>\n\n<p>Most of these services use a Web-based API and allow addition of extensions (try &ldquo;.json&rdquo; on OpenCorporates). Although this API looks the same as the earlier example in this section, its formal status as an API provides a guarantee that the service will be available.</p>\n",
-        "title": "APIs or machine-readable interfaces"
+        "_classes": ""
       }
     ],
-    "instruction": "Explore some of the main ways to unlock hidden data below."
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
   },
   {
     "_component": "accordion",
@@ -9023,7 +9210,7 @@
     "_disableAccessibilityState": false,
     "title": "Test your spreadsheet skills",
     "displayTitle": "Test your spreadsheet skills",
-    "body": "<p>You can test what you have learned in this module&nbsp;by correcting a&nbsp;messy spreadsheet.&nbsp;</p><p><a href=\"https://drive.google.com/open?id=0B1VBoooQ3X5jeEQycHo4OG4tclE\" tabindex=\"0\" target=\"_blank\">Download and open this spreadsheet</a>&nbsp;in your favourite spreadsheet application. Then&nbsp;see if you can fix the errors, relating to structure, content and&nbsp;layout,&nbsp;that you learnt about in this module.&nbsp;The spreadsheet contains two sheets of data from the same health facility star-ratings dataset,&nbsp;from different regions in Tanzania.</p><p>In order to track your changes on the spreadsheet, you may want to open a new tab or make a new spreadsheet. Create&nbsp;new columns,&nbsp;then add the records from the existing datasets into your new spreadsheet.&nbsp;</p><p dir=\"ltr\">At the point where you have structured your data, you may think it’s ready for processing or even visualising. As discovered earlier in the <a href=\"#/id/634441032208e1029dcadf6b\">four&nbsp;step process</a>, this is unfortunately not the case as you need to ensure that your data is of high quality and accuracy.</p><p dir=\"ltr\"><a class=\"button\" href=\"#/id/634441042208e1029dcadf6f\">Previous module</a> <a class=\"button\" href=\"#/id/634441042208e1029dcadf73\">Next module</a></p>",
+    "body": "<p>You can test what you have learned in this module&nbsp;by correcting a&nbsp;messy spreadsheet.&nbsp;</p><p><a href=\"https://drive.google.com/file/d/0B1VBoooQ3X5jeEQycHo4OG4tclE/view?pli=1&amp;resourcekey=0-WVCzNJl9CTFvsE1e8xRKxw\" tabindex=\"0\" target=\"_blank\">Download and open this spreadsheet</a>&nbsp;in your favourite spreadsheet application. Then&nbsp;see if you can fix the errors, relating to structure, content and&nbsp;layout,&nbsp;that you learnt about in this module.&nbsp;The spreadsheet contains two sheets of data from the same health facility star-ratings dataset,&nbsp;from different regions in Tanzania.</p><p>In order to track your changes on the spreadsheet, you may want to open a new tab or make a new spreadsheet. Create&nbsp;new columns,&nbsp;then add the records from the existing datasets into your new spreadsheet.&nbsp;</p><p dir=\"ltr\">At the point where you have structured your data, you may think it’s ready for processing or even visualising. As discovered earlier in the <a href=\"#/id/634441032208e1029dcadf6b\">four&nbsp;step process</a>, this is unfortunately not the case as you need to ensure that your data is of high quality and accuracy.</p><p dir=\"ltr\"><a class=\"button\" href=\"#/id/634441042208e1029dcadf6f\">Previous module</a> <a class=\"button\" href=\"#/id/634441042208e1029dcadf73\">Next module</a></p>",
     "_id": "634441262208e1029dcae1f0",
     "_layout": "left",
     "_parentId": "6344410b2208e1029dcadfd1",
@@ -9159,7 +9346,7 @@
     "_disableAccessibilityState": false,
     "title": "Filtering and pivot tables",
     "displayTitle": "Filtering and pivot tables",
-    "body": "<p>In this module we have seen how simple it can be to analyse data once it is organised in the correct structure.&nbsp;</p><p>If you haven't already, try applying what you have learnt to the&nbsp;<a href=\"https://drive.google.com/open?id=0B1VBoooQ3X5jT0RSOVk3SnJuWlU\" tabindex=\"0\" target=\"_blank\">course spreadsheet</a>.&nbsp;</p><p dir=\"ltr\">At this point there are two possible directions. Further analysis may be required to find a story; this may require further gathering, organising and cleaning. You may even need to employ further advanced statistical techniques such as the ones outlined in the courses and exercises linked below. Alternatively, you might have discovered your story already and be ready to visualise it. The next stage is choosing the most appropriate visualisation for your data.</p><p dir=\"ltr\"><a class=\"button\" href=\"#/id/634441042208e1029dcadf73\">Previous module</a> <a class=\"button\" href=\"#/id/634441042208e1029dcadf77\">Next module</a></p>",
+    "body": "<p>In this module we have seen how simple it can be to analyse data once it is organised in the correct structure.&nbsp;</p><p>If you haven't already, try applying what you have learnt to the&nbsp;<a href=\"https://drive.google.com/file/d/0B1VBoooQ3X5jT0RSOVk3SnJuWlU/view?pli=1&resourcekey=0-1gG1TcgZF8RAWrmK5bZbAA\" tabindex=\"0\" target=\"_blank\">course spreadsheet</a>.&nbsp;</p><p dir=\"ltr\">At this point there are two possible directions. Further analysis may be required to find a story; this may require further gathering, organising and cleaning. You may even need to employ further advanced statistical techniques such as the ones outlined in the courses and exercises linked below. Alternatively, you might have discovered your story already and be ready to visualise it. The next stage is choosing the most appropriate visualisation for your data.</p><p dir=\"ltr\"><a class=\"button\" href=\"#/id/634441042208e1029dcadf73\">Previous module</a> <a class=\"button\" href=\"#/id/634441042208e1029dcadf77\">Next module</a></p>",
     "_id": "634441262208e1029dcae1f7",
     "_layout": "left",
     "_parentId": "634441082208e1029dcadfb6",
