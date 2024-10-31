@@ -59,7 +59,7 @@
     "_specification": "xAPI",
     "_activityID": "https://findingstories.learndata.info/",
     "_cookiePrefix": "info.learndata.",
-    "_endpoint": "https://theodi.learninglocker.net/data/xAPI",
+    "_endpoint": "https://xapi.learndata.info/xAPI",
     "_user": "ffcb1c32332a9a8d8eb1cfd72caaf460587499d5",
     "_password": "770681e1722ac7c7ee906854d22b175a40584e4c",
     "_lang": "en-US",
